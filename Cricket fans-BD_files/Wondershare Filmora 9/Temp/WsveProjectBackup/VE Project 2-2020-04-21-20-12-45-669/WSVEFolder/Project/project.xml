@@ -1,0 +1,2098 @@
+<TimeLine>
+<Properties Count="43">
+<Property key="Animation.InRatio" type="double" value="0.000000"/>
+<Property key="Animation.OutRatio" type="double" value="0.000000"/>
+<Property key="Animation.StringParam" type="std::wstring" value=""/>
+<Property key="Animation.Type" type="int" value="0"/>
+<Property key="Children.Count" type="int" value="6"/>
+<Property key="Composition.Enabled" type="int" value="1"/>
+<Property key="Composition.Mode" type="int" value="0"/>
+<Property key="Composition.Opacity" type="int" value="255"/>
+<Property key="EffectBasinProp" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="73">
+<Property key="ChromaKey.AlphaChannel" type="int" value="0"/>
+<Property key="ChromaKey.BoundaryChange" type="double" value="-2.000000"/>
+<Property key="ChromaKey.Color" type="int" value="65280"/>
+<Property key="ChromaKey.Enabled" type="int" value="0"/>
+<Property key="ChromaKey.Level" type="double" value="2.000000"/>
+<Property key="ChromaKey.kContrast" type="double" value="50.000000"/>
+<Property key="ChromaKey.kOffset" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoColor.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.AutoColor.Threshold" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoColor.Value" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoEnhance.Amount" type="double" value="50.000000"/>
+<Property key="ColorAdjust.AutoEnhance.Enabled" type="int" value="0"/>
+<Property key="ColorAdjust.Color.Brightness" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Contrast" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Color.Exposure" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Saturation" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Vibrance" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.HSL.Hue.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.LUT.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Light.Blacks" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Light.Highlights" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.Shadow" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.White" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Amount" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Vignette.Exposure" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Feature" type="double" value="50.000000"/>
+<Property key="ColorAdjust.Vignette.Highlights" type="double" value="50.000000"/>
+<Property key="ColorAdjust.Vignette.Roundness" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Size" type="double" value="100.000000"/>
+<Property key="ColorAdjust.WhiteBalance.BGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.WhiteBalance.GGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.RGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Temperature" type="double" value="0.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Tint" type="double" value="0.000000"/>
+<Property key="EffectCover.Enable" type="int" value="1"/>
+<Property key="FlipUp.Enable" type="int" value="0"/>
+<Property key="Mirror.Enable" type="int" value="0"/>
+<Property key="Render.FishEyeEnable" type="int" value="0"/>
+<Property key="Render.FishEyeLevel" type="int" value="0"/>
+<Property key="Shadow.Blur" type="int" value="20"/>
+<Property key="Shadow.Color" type="int" value="0"/>
+<Property key="Shadow.Direction" type="int" value="7"/>
+<Property key="Shadow.Distance" type="int" value="10"/>
+<Property key="Shadow.Enabled" type="int" value="0"/>
+<Property key="Shadow.Transparency" type="int" value="80"/>
+</Properties>
+</Property>
+<Property key="EffectCoverProp" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="2">
+<Property key="EffectCover.Enable" type="int" value="1"/>
+<Property key="z.FilterCount" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Level" type="int" value="-1"/>
+<Property key="Mixer.Count" type="int" value="4"/>
+<Property key="Mixer.Level.0" type="std::wstring" value="level:1,enable:0 mute:0 volume:0.000000 balance:0.000000 surround:0 azimuth:0 elevation:0"/>
+<Property key="Mixer.Level.1" type="std::wstring" value="level:-1,enable:0 mute:0 volume:0.000000 balance:0.000000 surround:0 azimuth:0 elevation:0"/>
+<Property key="Mixer.Level.2" type="std::wstring" value="level:2,enable:0 mute:0 volume:0.000000 balance:0.000000 surround:0 azimuth:0 elevation:0"/>
+<Property key="Mixer.Level.3" type="std::wstring" value="level:3,enable:0 mute:0 volume:0.000000 balance:0.000000 surround:0 azimuth:0 elevation:0"/>
+<Property key="NLEVersion" type="std::wstring" value="(5, 9, 0, 53)"/>
+<Property key="Project.Audio.BitsPerSample" type="int" value="16"/>
+<Property key="Project.Audio.Samplerate" type="int" value="44100"/>
+<Property key="Project.Audio.nChannels" type="int" value="2"/>
+<Property key="Project.Video.FrameRate" type="NLERational" value="[25000000, 1000000]: 25.0000000 "/>
+<Property key="Project.Video.Resolution" type="NLEPoint" value="x:1920, y:1080"/>
+<Property key="REFCLSID" type="GUID" value="{42ECA820-24A5-5AA6-544F-2F32650C1158}"/>
+<Property key="Render.ContentRange" type="NLERange" value="Start:0, End:27461"/>
+<Property key="Render.Framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="Render.MarginMode" type="int" value="0"/>
+<Property key="Render.Position" type="int" value="0"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:27461"/>
+<Property key="Render.RationPosition" type="NLERational" value="[0, 1]: 0.0000000 "/>
+<Property key="TimelineType" type="int" value="16"/>
+<Property key="Transform.Angle" type="double" value="0.000000"/>
+<Property key="Transform.CenterPoint" type="NLEPointF" value="x:0.50000000000000000000, y:0.50000000000000000000"/>
+<Property key="Transform.Enabled" type="int" value="1"/>
+<Property key="Transform.Locked" type="int" value="0"/>
+<Property key="Transform.LockedTransform" type="int" value="0"/>
+<Property key="Transform.ResizeScale" type="NLEPointF" value="x:1.00000000000000000000, y:1.00000000000000000000"/>
+<Property key="Transform.ShowTransform" type="int" value="1"/>
+<Property key="UserData" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="6">
+<Property key="Key_AncestralGuid" type="std::wstring" value="{64886b58-862f-4239-96ba-9a783f4d3c39}"/>
+<Property key="Key_TimelineGuid" type="std::wstring" value="{042c6dee-619b-4e30-8a9d-b04dbbc841c9}"/>
+<Property key="kGPU.GPUFirst" type="int" value="0"/>
+<Property key="key_timeline_markInOut" type="NLEPoint" value="x:-1, y:-1"/>
+<Property key="key_timeline_resource_info" type="std::wstring" value="{&quot;name&quot;:&quot;VE Project 2&quot;}"/>
+<Property key="key_timeline_type" type="std::wstring" value="12"/>
+</Properties>
+</Property>
+<Property key="ViewEdit.Status.Using" type="int" value="1"/>
+<Property key="base.Enable" type="int" value="1"/>
+<Property key="z.Alias" type="std::wstring" value=""/>
+<Property key="z.Marker" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="4">
+<Property key="contentEnd" type="NLERational" value="[27461, 1]: 27461.0000000 "/>
+<Property key="framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="trimEnd" type="NLERational" value="[27461, 1]: 27461.0000000 "/>
+<Property key="trimStart" type="NLERational" value="[0, 1]: 0.0000000 "/>
+</Properties>
+</Property>
+<Property key="z.Name" type="std::wstring" value="Project"/>
+</Properties>
+<TimeLine>
+<Properties Count="68">
+<Property key="Absolute.FilePath" type="std::wstring" value="D:/Shn android/All song/Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p).mp4"/>
+<Property key="Animation.InRatio" type="double" value="0.000000"/>
+<Property key="Animation.OutRatio" type="double" value="0.000000"/>
+<Property key="Animation.StringParam" type="std::wstring" value=""/>
+<Property key="Animation.Type" type="int" value="0"/>
+<Property key="Composition.Enabled" type="int" value="1"/>
+<Property key="Composition.Mode" type="int" value="0"/>
+<Property key="Composition.Opacity" type="int" value="255"/>
+<Property key="Crop.Enabled" type="int" value="0"/>
+<Property key="Crop.Region" type="NLERectF" value="left:0.00000000000000000000, top:0.00000000000000000000, width:1.00000000000000000000, height:1.00000000000000000000"/>
+<Property key="Denoise.Enabled" type="int" value="0"/>
+<Property key="Denoise.Level" type="int" value="0"/>
+<Property key="EffectBasinProp" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="73">
+<Property key="ChromaKey.AlphaChannel" type="int" value="0"/>
+<Property key="ChromaKey.BoundaryChange" type="double" value="-2.000000"/>
+<Property key="ChromaKey.Color" type="int" value="65280"/>
+<Property key="ChromaKey.Enabled" type="int" value="0"/>
+<Property key="ChromaKey.Level" type="double" value="2.000000"/>
+<Property key="ChromaKey.kContrast" type="double" value="50.000000"/>
+<Property key="ChromaKey.kOffset" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoColor.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.AutoColor.Threshold" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoColor.Value" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoEnhance.Amount" type="double" value="50.000000"/>
+<Property key="ColorAdjust.AutoEnhance.Enabled" type="int" value="0"/>
+<Property key="ColorAdjust.Color.Brightness" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Contrast" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Color.Exposure" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Saturation" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Vibrance" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.HSL.Hue.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.LUT.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Light.Blacks" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Light.Highlights" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.Shadow" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.White" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Amount" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Vignette.Exposure" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Feature" type="double" value="50.000000"/>
+<Property key="ColorAdjust.Vignette.Highlights" type="double" value="50.000000"/>
+<Property key="ColorAdjust.Vignette.Roundness" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Size" type="double" value="100.000000"/>
+<Property key="ColorAdjust.WhiteBalance.BGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.WhiteBalance.GGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.RGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Temperature" type="double" value="0.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Tint" type="double" value="0.000000"/>
+<Property key="EffectCover.Enable" type="int" value="1"/>
+<Property key="FlipUp.Enable" type="int" value="0"/>
+<Property key="Mirror.Enable" type="int" value="0"/>
+<Property key="Render.FishEyeEnable" type="int" value="0"/>
+<Property key="Render.FishEyeLevel" type="int" value="0"/>
+<Property key="Shadow.Blur" type="int" value="20"/>
+<Property key="Shadow.Color" type="int" value="0"/>
+<Property key="Shadow.Direction" type="int" value="7"/>
+<Property key="Shadow.Distance" type="int" value="10"/>
+<Property key="Shadow.Enabled" type="int" value="0"/>
+<Property key="Shadow.Transparency" type="int" value="80"/>
+</Properties>
+</Property>
+<Property key="EffectCoverProp" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="2">
+<Property key="EffectCover.Enable" type="int" value="1"/>
+<Property key="z.FilterCount" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Equalizer.Band1" type="double" value="0.000000"/>
+<Property key="Equalizer.Band2" type="double" value="0.000000"/>
+<Property key="Equalizer.Band3" type="double" value="0.000000"/>
+<Property key="Equalizer.Band4" type="double" value="0.000000"/>
+<Property key="Equalizer.Band5" type="double" value="0.000000"/>
+<Property key="Equalizer.Band6" type="double" value="0.000000"/>
+<Property key="Equalizer.Band7" type="double" value="0.000000"/>
+<Property key="Equalizer.Band8" type="double" value="0.000000"/>
+<Property key="Equalizer.Enabled" type="int" value="1"/>
+<Property key="Equalizer.HS" type="double" value="0.000000"/>
+<Property key="Equalizer.Name" type="std::wstring" value="Default"/>
+<Property key="Equalizer.kLS" type="double" value="0.000000"/>
+<Property key="Level" type="int" value="0"/>
+<Property key="MediaInfo" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="12">
+<Property key="Absolute.FilePath" type="std::wstring" value="D:/Shn android/All song/Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p).mp4"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="kAudio_Disable" type="int" value="0"/>
+<Property key="kCodec_FourCC" type="unsigned int" value="1836020585"/>
+<Property key="kMedia.Info.MediaLength" type="double" value="1123.333333"/>
+<Property key="kMedia.Info.SerializedString" type="std::wstring" value="{
+	&quot;MediaInfo&quot;:	{
+		&quot;FileCreateData&quot;:	&quot;2020:4:21:12:3:0,2020:4:21:12:22:0\n&quot;,
+		&quot;FOURCC&quot;:	&quot;1836020585&quot;,
+		&quot;FileName&quot;:	&quot;&quot;,
+		&quot;Description&quot;:	&quot;&quot;,
+		&quot;MediaLength&quot;:	&quot;1123381&quot;,
+		&quot;Bitrate&quot;:	&quot;204368&quot;,
+		&quot;AVScanType&quot;:	&quot;2&quot;,
+		&quot;ProgramCount&quot;:	&quot;1&quot;,
+		&quot;ProgramInfos&quot;:	[{
+				&quot;Number&quot;:	&quot;1&quot;,
+				&quot;ID&quot;:	&quot;1&quot;,
+				&quot;MediaLength&quot;:	&quot;1123381&quot;,
+				&quot;Bitrate&quot;:	&quot;204368&quot;,
+				&quot;TimeStampReferenceStreamID&quot;:	&quot;0&quot;,
+				&quot;VideoStreamCount&quot;:	&quot;1&quot;,
+				&quot;VideoStreamInfos&quot;:	[{
+						&quot;StreamType&quot;:	&quot;2&quot;,
+						&quot;StreamID&quot;:	&quot;0&quot;,
+						&quot;FourCC&quot;:	&quot;875967048&quot;,
+						&quot;State&quot;:	&quot;0&quot;,
+						&quot;Name&quot;:	&quot;H264&quot;,
+						&quot;Description&quot;:	&quot;Advanced Video Codec&quot;,
+						&quot;StreamLength&quot;:	&quot;1123333&quot;,
+						&quot;Bitrate&quot;:	&quot;76369&quot;,
+						&quot;VideoInfo&quot;:	{
+							&quot;Width&quot;:	&quot;256&quot;,
+							&quot;Height&quot;:	&quot;144&quot;,
+							&quot;FrameRate&quot;:	&quot;30000&quot;,
+							&quot;TotalFrame&quot;:	&quot;33700&quot;,
+							&quot;xratio&quot;:	&quot;0&quot;,
+							&quot;yratio&quot;:	&quot;0&quot;,
+							&quot;Compression&quot;:	&quot;842094169&quot;,
+							&quot;BitsDepth&quot;:	&quot;24&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;,
+							&quot;ColorRange&quot;:	&quot;0&quot;,
+							&quot;ColorPrimary&quot;:	&quot;0&quot;
+						},
+						&quot;VideoSrcInfo&quot;:	{
+							&quot;StreamSrcInfoScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcRotate&quot;:	&quot;0&quot;,
+							&quot;VideoInfo&quot;:	{
+								&quot;Width&quot;:	&quot;256&quot;,
+								&quot;Height&quot;:	&quot;144&quot;,
+								&quot;FrameRate&quot;:	&quot;30000&quot;,
+								&quot;TotalFrame&quot;:	&quot;33700&quot;,
+								&quot;xratio&quot;:	&quot;16000&quot;,
+								&quot;yratio&quot;:	&quot;9000&quot;,
+								&quot;Compression&quot;:	&quot;842094169&quot;,
+								&quot;BitsDepth&quot;:	&quot;24&quot;,
+								&quot;CapsFlag&quot;:	&quot;0&quot;,
+								&quot;ColorRange&quot;:	&quot;0&quot;,
+								&quot;ColorPrimary&quot;:	&quot;0&quot;
+							}
+						},
+						&quot;AudioInfo&quot;:	{
+							&quot;SampleRate&quot;:	&quot;0&quot;,
+							&quot;Channels&quot;:	&quot;0&quot;,
+							&quot;Bitspersample&quot;:	&quot;0&quot;,
+							&quot;Bytespersecond&quot;:	&quot;0&quot;,
+							&quot;Length&quot;:	&quot;0&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;
+						},
+						&quot;ptsStart&quot;:	&quot;0&quot;,
+						&quot;ptsOffset&quot;:	&quot;0&quot;
+					}],
+				&quot;AudioStreamCount&quot;:	&quot;1&quot;,
+				&quot;AudioStreamInfos&quot;:	[{
+						&quot;StreamType&quot;:	&quot;3&quot;,
+						&quot;StreamID&quot;:	&quot;1&quot;,
+						&quot;FourCC&quot;:	&quot;541278529&quot;,
+						&quot;State&quot;:	&quot;0&quot;,
+						&quot;Name&quot;:	&quot;AAC &quot;,
+						&quot;Description&quot;:	&quot;Advanced Audio Codec&quot;,
+						&quot;StreamLength&quot;:	&quot;1123381&quot;,
+						&quot;Bitrate&quot;:	&quot;127999&quot;,
+						&quot;VideoInfo&quot;:	{
+							&quot;Width&quot;:	&quot;0&quot;,
+							&quot;Height&quot;:	&quot;0&quot;,
+							&quot;FrameRate&quot;:	&quot;0&quot;,
+							&quot;TotalFrame&quot;:	&quot;0&quot;,
+							&quot;xratio&quot;:	&quot;0&quot;,
+							&quot;yratio&quot;:	&quot;0&quot;,
+							&quot;Compression&quot;:	&quot;0&quot;,
+							&quot;BitsDepth&quot;:	&quot;0&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;,
+							&quot;ColorRange&quot;:	&quot;0&quot;,
+							&quot;ColorPrimary&quot;:	&quot;0&quot;
+						},
+						&quot;VideoSrcInfo&quot;:	{
+							&quot;StreamSrcInfoScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcRotate&quot;:	&quot;0&quot;,
+							&quot;VideoInfo&quot;:	{
+								&quot;Width&quot;:	&quot;0&quot;,
+								&quot;Height&quot;:	&quot;0&quot;,
+								&quot;FrameRate&quot;:	&quot;0&quot;,
+								&quot;TotalFrame&quot;:	&quot;0&quot;,
+								&quot;xratio&quot;:	&quot;0&quot;,
+								&quot;yratio&quot;:	&quot;0&quot;,
+								&quot;Compression&quot;:	&quot;0&quot;,
+								&quot;BitsDepth&quot;:	&quot;0&quot;,
+								&quot;CapsFlag&quot;:	&quot;0&quot;,
+								&quot;ColorRange&quot;:	&quot;0&quot;,
+								&quot;ColorPrimary&quot;:	&quot;0&quot;
+							}
+						},
+						&quot;AudioInfo&quot;:	{
+							&quot;SampleRate&quot;:	&quot;44100&quot;,
+							&quot;Channels&quot;:	&quot;2&quot;,
+							&quot;Bitspersample&quot;:	&quot;16&quot;,
+							&quot;Bytespersecond&quot;:	&quot;15999&quot;,
+							&quot;Length&quot;:	&quot;1123381&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;
+						},
+						&quot;ptsStart&quot;:	&quot;0&quot;,
+						&quot;ptsOffset&quot;:	&quot;0&quot;
+					}],
+				&quot;SubPicStreamCount&quot;:	&quot;0&quot;,
+				&quot;SubPicInfos&quot;:	[]
+			}]
+	}
+}"/>
+<Property key="kMedia.Info.SerializedStringSize" type="int" value="3058"/>
+<Property key="kSource.StreamCount" type="int" value="2"/>
+<Property key="kSource.Stream_0" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="16">
+<Property key="kStream_Type" type="int" value="2"/>
+<Property key="kVideo_Bitrate" type="int" value="76369"/>
+<Property key="kVideo_BitsDepth" type="int" value="24"/>
+<Property key="kVideo_CapsFlag" type="unsigned int" value="0"/>
+<Property key="kVideo_Compression" type="unsigned int" value="842094169"/>
+<Property key="kVideo_Description" type="std::wstring" value="Advanced Video Codec"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+<Property key="kVideo_Duration" type="long long" value="11233333333"/>
+<Property key="kVideo_FourCC" type="unsigned int" value="875967048"/>
+<Property key="kVideo_FrameRate" type="double" value="30.000000"/>
+<Property key="kVideo_Height" type="int" value="144"/>
+<Property key="kVideo_ID" type="unsigned int" value="0"/>
+<Property key="kVideo_Name" type="std::wstring" value="H264"/>
+<Property key="kVideo_State" type="int" value="0"/>
+<Property key="kVideo_TotalFrames" type="int" value="33700"/>
+<Property key="kVideo_Width" type="int" value="256"/>
+</Properties>
+</Property>
+<Property key="kSource.Stream_1" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="15">
+<Property key="Source_ScreenRecordingStreamType" type="unsigned int" value="0"/>
+<Property key="kAduio_CapsFlag" type="unsigned int" value="0"/>
+<Property key="kAudio_Bitrate" type="int" value="127999"/>
+<Property key="kAudio_BitsPerSample" type="int" value="16"/>
+<Property key="kAudio_BytesPerSecond" type="int" value="176400"/>
+<Property key="kAudio_Channels" type="int" value="2"/>
+<Property key="kAudio_Description" type="std::wstring" value="Advanced Audio Codec"/>
+<Property key="kAudio_Disable" type="int" value="0"/>
+<Property key="kAudio_Duration" type="long long" value="11233814058"/>
+<Property key="kAudio_FourCC" type="unsigned int" value="541278529"/>
+<Property key="kAudio_ID" type="unsigned int" value="1"/>
+<Property key="kAudio_Name" type="std::wstring" value="AAC "/>
+<Property key="kAudio_SampleRate" type="int" value="44100"/>
+<Property key="kAudio_State" type="int" value="0"/>
+<Property key="kStream_Type" type="int" value="3"/>
+</Properties>
+</Property>
+<Property key="kStream_ProgramID" type="int" value="1"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Mix2Mono.Enabled" type="int" value="0"/>
+<Property key="ProxySource.Enable" type="int" value="0"/>
+<Property key="ProxySource.ProxyFile.path" type="std::wstring" value=""/>
+<Property key="REFCLSID" type="GUID" value="{FC850F8E-F304-4E87-A00C-9A43291D317F}"/>
+<Property key="Render.ContentRange" type="NLERange" value="Start:0, End:28082"/>
+<Property key="Render.Framerate" type="NLERational" value="[25000000, 1000000]: 25.0000000 "/>
+<Property key="Render.MarginMode" type="int" value="1"/>
+<Property key="Render.NeedPremult" type="int" value="0"/>
+<Property key="Render.Position" type="int" value="0"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:1"/>
+<Property key="Render.RationPosition" type="NLERational" value="[0, 1]: 0.0000000 "/>
+<Property key="SourceRender_CurrentAudioStreamIndex" type="int" value="1"/>
+<Property key="SourceRender_CurrentVideoStreamIndex" type="int" value="0"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="Stabilization.Enabled" type="int" value="0"/>
+<Property key="Stabilization.Level" type="int" value="10"/>
+<Property key="Timeline.SpeedMarker" type="std::wstring" value="{&quot;fr.den&quot;:1000000,&quot;fr.num&quot;:25000000,&quot;nodes&quot;:[{&quot;audio.pitch&quot;:1,&quot;freeze&quot;:0,&quot;guid&quot;:&quot;5E07CD0E-28B4-42E2-BE18-366E8B1FE9D1&quot;,&quot;inter.mode&quot;:0,&quot;len&quot;:1123.333333333333,&quot;re.begin&quot;:1123.333333333333,&quot;re.eend&quot;:0,&quot;reverse&quot;:0,&quot;rewind.host&quot;:0,&quot;rewind.index&quot;:0,&quot;rr.b&quot;:0,&quot;rr.c&quot;:1123.333333333333,&quot;rr.end&quot;:28082,&quot;rr.start&quot;:0,&quot;speed.den&quot;:1,&quot;speed.num&quot;:1,&quot;sr.end&quot;:28082,&quot;sr.start&quot;:0,&quot;time&quot;:0}],&quot;source.len&quot;:1123.333333333333,&quot;trim.guid.end&quot;:&quot;5E07CD0E-28B4-42E2-BE18-366E8B1FE9D1&quot;,&quot;trim.guid.start&quot;:&quot;5E07CD0E-28B4-42E2-BE18-366E8B1FE9D1&quot;,&quot;trim.sr.end&quot;:0.08000094956616695,&quot;trim.sr.start&quot;:0}
+"/>
+<Property key="TimelineType" type="int" value="4"/>
+<Property key="Transform.Angle" type="double" value="0.000000"/>
+<Property key="Transform.CenterPoint" type="NLEPointF" value="x:0.50000000000000000000, y:0.50000000000000000000"/>
+<Property key="Transform.Enabled" type="int" value="1"/>
+<Property key="Transform.Locked" type="int" value="0"/>
+<Property key="Transform.LockedTransform" type="int" value="0"/>
+<Property key="Transform.ResizeScale" type="NLEPointF" value="x:1.00000000000000000000, y:1.00000000000000000000"/>
+<Property key="Transform.ShowTransform" type="int" value="1"/>
+<Property key="UserData" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="5">
+<Property key="Key_AncestralGuid" type="std::wstring" value="{38615193-5fbe-42f6-ab9d-a105e85fc55d}"/>
+<Property key="Key_TimelineGuid" type="std::wstring" value="{2c20aa05-544a-4481-837a-c6f98653f66d}"/>
+<Property key="Speed.Scale" type="NLERational" value="[1000000, 1000000]: 1.0000000 "/>
+<Property key="key_timeline_resource_info" type="std::wstring" value="{&quot;download_url&quot;:&quot;D:/Shn android/All song/Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p).mp4&quot;,&quot;name&quot;:&quot;Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p)&quot;}"/>
+<Property key="key_timeline_type" type="std::wstring" value="3"/>
+</Properties>
+</Property>
+<Property key="ViewEdit.Status.Using" type="int" value="1"/>
+<Property key="Volume.Balance" type="int" value="0"/>
+<Property key="Volume.Enabled" type="int" value="1"/>
+<Property key="Volume.Mute" type="int" value="0"/>
+<Property key="Volume.Pitch" type="int" value="0"/>
+<Property key="Volume.Volume" type="double" value="0.000000"/>
+<Property key="base.Enable" type="int" value="1"/>
+<Property key="fade.aud.in.enabled" type="int" value="1"/>
+<Property key="fade.aud.in.range" type="int" value="0"/>
+<Property key="fade.aud.out.enabled" type="int" value="1"/>
+<Property key="fade.aud.out.range" type="int" value="0"/>
+<Property key="fade.aud.renderframerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="z.Alias" type="std::wstring" value=""/>
+<Property key="z.Marker" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="4">
+<Property key="contentEnd" type="NLERational" value="[84247, 3]: 28082.3333333 "/>
+<Property key="framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="trimEnd" type="NLERational" value="[1, 1]: 1.0000000 "/>
+<Property key="trimStart" type="NLERational" value="[0, 1]: 0.0000000 "/>
+</Properties>
+</Property>
+</Properties>
+</TimeLine>
+<TimeLine>
+<Properties Count="68">
+<Property key="Absolute.FilePath" type="std::wstring" value="D:/Shn android/All song/Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p).mp4"/>
+<Property key="Animation.InRatio" type="double" value="0.000000"/>
+<Property key="Animation.OutRatio" type="double" value="0.000000"/>
+<Property key="Animation.StringParam" type="std::wstring" value=""/>
+<Property key="Animation.Type" type="int" value="0"/>
+<Property key="Composition.Enabled" type="int" value="1"/>
+<Property key="Composition.Mode" type="int" value="0"/>
+<Property key="Composition.Opacity" type="int" value="255"/>
+<Property key="Crop.Enabled" type="int" value="0"/>
+<Property key="Crop.Region" type="NLERectF" value="left:0.00000000000000000000, top:0.00000000000000000000, width:1.00000000000000000000, height:1.00000000000000000000"/>
+<Property key="Denoise.Enabled" type="int" value="0"/>
+<Property key="Denoise.Level" type="int" value="0"/>
+<Property key="EffectBasinProp" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="73">
+<Property key="ChromaKey.AlphaChannel" type="int" value="0"/>
+<Property key="ChromaKey.BoundaryChange" type="double" value="-2.000000"/>
+<Property key="ChromaKey.Color" type="int" value="65280"/>
+<Property key="ChromaKey.Enabled" type="int" value="0"/>
+<Property key="ChromaKey.Level" type="double" value="2.000000"/>
+<Property key="ChromaKey.kContrast" type="double" value="50.000000"/>
+<Property key="ChromaKey.kOffset" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoColor.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.AutoColor.Threshold" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoColor.Value" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoEnhance.Amount" type="double" value="50.000000"/>
+<Property key="ColorAdjust.AutoEnhance.Enabled" type="int" value="0"/>
+<Property key="ColorAdjust.Color.Brightness" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Contrast" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Color.Exposure" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Saturation" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Vibrance" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.HSL.Hue.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.LUT.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Light.Blacks" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Light.Highlights" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.Shadow" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.White" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Amount" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Vignette.Exposure" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Feature" type="double" value="50.000000"/>
+<Property key="ColorAdjust.Vignette.Highlights" type="double" value="50.000000"/>
+<Property key="ColorAdjust.Vignette.Roundness" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Size" type="double" value="100.000000"/>
+<Property key="ColorAdjust.WhiteBalance.BGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.WhiteBalance.GGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.RGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Temperature" type="double" value="0.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Tint" type="double" value="0.000000"/>
+<Property key="EffectCover.Enable" type="int" value="1"/>
+<Property key="FlipUp.Enable" type="int" value="0"/>
+<Property key="Mirror.Enable" type="int" value="0"/>
+<Property key="Render.FishEyeEnable" type="int" value="0"/>
+<Property key="Render.FishEyeLevel" type="int" value="0"/>
+<Property key="Shadow.Blur" type="int" value="20"/>
+<Property key="Shadow.Color" type="int" value="0"/>
+<Property key="Shadow.Direction" type="int" value="7"/>
+<Property key="Shadow.Distance" type="int" value="10"/>
+<Property key="Shadow.Enabled" type="int" value="0"/>
+<Property key="Shadow.Transparency" type="int" value="80"/>
+</Properties>
+</Property>
+<Property key="EffectCoverProp" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="2">
+<Property key="EffectCover.Enable" type="int" value="1"/>
+<Property key="z.FilterCount" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Equalizer.Band1" type="double" value="0.000000"/>
+<Property key="Equalizer.Band2" type="double" value="0.000000"/>
+<Property key="Equalizer.Band3" type="double" value="0.000000"/>
+<Property key="Equalizer.Band4" type="double" value="0.000000"/>
+<Property key="Equalizer.Band5" type="double" value="0.000000"/>
+<Property key="Equalizer.Band6" type="double" value="0.000000"/>
+<Property key="Equalizer.Band7" type="double" value="0.000000"/>
+<Property key="Equalizer.Band8" type="double" value="0.000000"/>
+<Property key="Equalizer.Enabled" type="int" value="1"/>
+<Property key="Equalizer.HS" type="double" value="0.000000"/>
+<Property key="Equalizer.Name" type="std::wstring" value="Default"/>
+<Property key="Equalizer.kLS" type="double" value="0.000000"/>
+<Property key="Level" type="int" value="0"/>
+<Property key="MediaInfo" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="12">
+<Property key="Absolute.FilePath" type="std::wstring" value="D:/Shn android/All song/Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p).mp4"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="kAudio_Disable" type="int" value="0"/>
+<Property key="kCodec_FourCC" type="unsigned int" value="1836020585"/>
+<Property key="kMedia.Info.MediaLength" type="double" value="1123.333333"/>
+<Property key="kMedia.Info.SerializedString" type="std::wstring" value="{
+	&quot;MediaInfo&quot;:	{
+		&quot;FileCreateData&quot;:	&quot;2020:4:21:12:3:0,2020:4:21:12:22:0\n&quot;,
+		&quot;FOURCC&quot;:	&quot;1836020585&quot;,
+		&quot;FileName&quot;:	&quot;&quot;,
+		&quot;Description&quot;:	&quot;&quot;,
+		&quot;MediaLength&quot;:	&quot;1123381&quot;,
+		&quot;Bitrate&quot;:	&quot;204368&quot;,
+		&quot;AVScanType&quot;:	&quot;2&quot;,
+		&quot;ProgramCount&quot;:	&quot;1&quot;,
+		&quot;ProgramInfos&quot;:	[{
+				&quot;Number&quot;:	&quot;1&quot;,
+				&quot;ID&quot;:	&quot;1&quot;,
+				&quot;MediaLength&quot;:	&quot;1123381&quot;,
+				&quot;Bitrate&quot;:	&quot;204368&quot;,
+				&quot;TimeStampReferenceStreamID&quot;:	&quot;0&quot;,
+				&quot;VideoStreamCount&quot;:	&quot;1&quot;,
+				&quot;VideoStreamInfos&quot;:	[{
+						&quot;StreamType&quot;:	&quot;2&quot;,
+						&quot;StreamID&quot;:	&quot;0&quot;,
+						&quot;FourCC&quot;:	&quot;875967048&quot;,
+						&quot;State&quot;:	&quot;0&quot;,
+						&quot;Name&quot;:	&quot;H264&quot;,
+						&quot;Description&quot;:	&quot;Advanced Video Codec&quot;,
+						&quot;StreamLength&quot;:	&quot;1123333&quot;,
+						&quot;Bitrate&quot;:	&quot;76369&quot;,
+						&quot;VideoInfo&quot;:	{
+							&quot;Width&quot;:	&quot;256&quot;,
+							&quot;Height&quot;:	&quot;144&quot;,
+							&quot;FrameRate&quot;:	&quot;30000&quot;,
+							&quot;TotalFrame&quot;:	&quot;33700&quot;,
+							&quot;xratio&quot;:	&quot;0&quot;,
+							&quot;yratio&quot;:	&quot;0&quot;,
+							&quot;Compression&quot;:	&quot;842094169&quot;,
+							&quot;BitsDepth&quot;:	&quot;24&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;,
+							&quot;ColorRange&quot;:	&quot;0&quot;,
+							&quot;ColorPrimary&quot;:	&quot;0&quot;
+						},
+						&quot;VideoSrcInfo&quot;:	{
+							&quot;StreamSrcInfoScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcRotate&quot;:	&quot;0&quot;,
+							&quot;VideoInfo&quot;:	{
+								&quot;Width&quot;:	&quot;256&quot;,
+								&quot;Height&quot;:	&quot;144&quot;,
+								&quot;FrameRate&quot;:	&quot;30000&quot;,
+								&quot;TotalFrame&quot;:	&quot;33700&quot;,
+								&quot;xratio&quot;:	&quot;16000&quot;,
+								&quot;yratio&quot;:	&quot;9000&quot;,
+								&quot;Compression&quot;:	&quot;842094169&quot;,
+								&quot;BitsDepth&quot;:	&quot;24&quot;,
+								&quot;CapsFlag&quot;:	&quot;0&quot;,
+								&quot;ColorRange&quot;:	&quot;0&quot;,
+								&quot;ColorPrimary&quot;:	&quot;0&quot;
+							}
+						},
+						&quot;AudioInfo&quot;:	{
+							&quot;SampleRate&quot;:	&quot;0&quot;,
+							&quot;Channels&quot;:	&quot;0&quot;,
+							&quot;Bitspersample&quot;:	&quot;0&quot;,
+							&quot;Bytespersecond&quot;:	&quot;0&quot;,
+							&quot;Length&quot;:	&quot;0&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;
+						},
+						&quot;ptsStart&quot;:	&quot;0&quot;,
+						&quot;ptsOffset&quot;:	&quot;0&quot;
+					}],
+				&quot;AudioStreamCount&quot;:	&quot;1&quot;,
+				&quot;AudioStreamInfos&quot;:	[{
+						&quot;StreamType&quot;:	&quot;3&quot;,
+						&quot;StreamID&quot;:	&quot;1&quot;,
+						&quot;FourCC&quot;:	&quot;541278529&quot;,
+						&quot;State&quot;:	&quot;0&quot;,
+						&quot;Name&quot;:	&quot;AAC &quot;,
+						&quot;Description&quot;:	&quot;Advanced Audio Codec&quot;,
+						&quot;StreamLength&quot;:	&quot;1123381&quot;,
+						&quot;Bitrate&quot;:	&quot;127999&quot;,
+						&quot;VideoInfo&quot;:	{
+							&quot;Width&quot;:	&quot;0&quot;,
+							&quot;Height&quot;:	&quot;0&quot;,
+							&quot;FrameRate&quot;:	&quot;0&quot;,
+							&quot;TotalFrame&quot;:	&quot;0&quot;,
+							&quot;xratio&quot;:	&quot;0&quot;,
+							&quot;yratio&quot;:	&quot;0&quot;,
+							&quot;Compression&quot;:	&quot;0&quot;,
+							&quot;BitsDepth&quot;:	&quot;0&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;,
+							&quot;ColorRange&quot;:	&quot;0&quot;,
+							&quot;ColorPrimary&quot;:	&quot;0&quot;
+						},
+						&quot;VideoSrcInfo&quot;:	{
+							&quot;StreamSrcInfoScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcRotate&quot;:	&quot;0&quot;,
+							&quot;VideoInfo&quot;:	{
+								&quot;Width&quot;:	&quot;0&quot;,
+								&quot;Height&quot;:	&quot;0&quot;,
+								&quot;FrameRate&quot;:	&quot;0&quot;,
+								&quot;TotalFrame&quot;:	&quot;0&quot;,
+								&quot;xratio&quot;:	&quot;0&quot;,
+								&quot;yratio&quot;:	&quot;0&quot;,
+								&quot;Compression&quot;:	&quot;0&quot;,
+								&quot;BitsDepth&quot;:	&quot;0&quot;,
+								&quot;CapsFlag&quot;:	&quot;0&quot;,
+								&quot;ColorRange&quot;:	&quot;0&quot;,
+								&quot;ColorPrimary&quot;:	&quot;0&quot;
+							}
+						},
+						&quot;AudioInfo&quot;:	{
+							&quot;SampleRate&quot;:	&quot;44100&quot;,
+							&quot;Channels&quot;:	&quot;2&quot;,
+							&quot;Bitspersample&quot;:	&quot;16&quot;,
+							&quot;Bytespersecond&quot;:	&quot;15999&quot;,
+							&quot;Length&quot;:	&quot;1123381&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;
+						},
+						&quot;ptsStart&quot;:	&quot;0&quot;,
+						&quot;ptsOffset&quot;:	&quot;0&quot;
+					}],
+				&quot;SubPicStreamCount&quot;:	&quot;0&quot;,
+				&quot;SubPicInfos&quot;:	[]
+			}]
+	}
+}"/>
+<Property key="kMedia.Info.SerializedStringSize" type="int" value="3058"/>
+<Property key="kSource.StreamCount" type="int" value="2"/>
+<Property key="kSource.Stream_0" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="16">
+<Property key="kStream_Type" type="int" value="2"/>
+<Property key="kVideo_Bitrate" type="int" value="76369"/>
+<Property key="kVideo_BitsDepth" type="int" value="24"/>
+<Property key="kVideo_CapsFlag" type="unsigned int" value="0"/>
+<Property key="kVideo_Compression" type="unsigned int" value="842094169"/>
+<Property key="kVideo_Description" type="std::wstring" value="Advanced Video Codec"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+<Property key="kVideo_Duration" type="long long" value="11233333333"/>
+<Property key="kVideo_FourCC" type="unsigned int" value="875967048"/>
+<Property key="kVideo_FrameRate" type="double" value="30.000000"/>
+<Property key="kVideo_Height" type="int" value="144"/>
+<Property key="kVideo_ID" type="unsigned int" value="0"/>
+<Property key="kVideo_Name" type="std::wstring" value="H264"/>
+<Property key="kVideo_State" type="int" value="0"/>
+<Property key="kVideo_TotalFrames" type="int" value="33700"/>
+<Property key="kVideo_Width" type="int" value="256"/>
+</Properties>
+</Property>
+<Property key="kSource.Stream_1" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="15">
+<Property key="Source_ScreenRecordingStreamType" type="unsigned int" value="0"/>
+<Property key="kAduio_CapsFlag" type="unsigned int" value="0"/>
+<Property key="kAudio_Bitrate" type="int" value="127999"/>
+<Property key="kAudio_BitsPerSample" type="int" value="16"/>
+<Property key="kAudio_BytesPerSecond" type="int" value="176400"/>
+<Property key="kAudio_Channels" type="int" value="2"/>
+<Property key="kAudio_Description" type="std::wstring" value="Advanced Audio Codec"/>
+<Property key="kAudio_Disable" type="int" value="0"/>
+<Property key="kAudio_Duration" type="long long" value="11233814058"/>
+<Property key="kAudio_FourCC" type="unsigned int" value="541278529"/>
+<Property key="kAudio_ID" type="unsigned int" value="1"/>
+<Property key="kAudio_Name" type="std::wstring" value="AAC "/>
+<Property key="kAudio_SampleRate" type="int" value="44100"/>
+<Property key="kAudio_State" type="int" value="0"/>
+<Property key="kStream_Type" type="int" value="3"/>
+</Properties>
+</Property>
+<Property key="kStream_ProgramID" type="int" value="1"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Mix2Mono.Enabled" type="int" value="0"/>
+<Property key="ProxySource.Enable" type="int" value="0"/>
+<Property key="ProxySource.ProxyFile.path" type="std::wstring" value=""/>
+<Property key="REFCLSID" type="GUID" value="{FC850F8E-F304-4E87-A00C-9A43291D317F}"/>
+<Property key="Render.ContentRange" type="NLERange" value="Start:0, End:28082"/>
+<Property key="Render.Framerate" type="NLERational" value="[25000000, 1000000]: 25.0000000 "/>
+<Property key="Render.MarginMode" type="int" value="1"/>
+<Property key="Render.NeedPremult" type="int" value="0"/>
+<Property key="Render.Position" type="int" value="2"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:623, End:626"/>
+<Property key="Render.RationPosition" type="NLERational" value="[2, 1]: 2.0000000 "/>
+<Property key="SourceRender_CurrentAudioStreamIndex" type="int" value="1"/>
+<Property key="SourceRender_CurrentVideoStreamIndex" type="int" value="0"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="Stabilization.Enabled" type="int" value="0"/>
+<Property key="Stabilization.Level" type="int" value="10"/>
+<Property key="Timeline.SpeedMarker" type="std::wstring" value="{&quot;fr.den&quot;:1000000,&quot;fr.num&quot;:25000000,&quot;nodes&quot;:[{&quot;audio.pitch&quot;:1,&quot;freeze&quot;:0,&quot;guid&quot;:&quot;5E07CD0E-28B4-42E2-BE18-366E8B1FE9D1&quot;,&quot;inter.mode&quot;:0,&quot;len&quot;:1123.333333333333,&quot;re.begin&quot;:1123.333333333333,&quot;re.eend&quot;:0,&quot;reverse&quot;:0,&quot;rewind.host&quot;:0,&quot;rewind.index&quot;:0,&quot;rr.b&quot;:0,&quot;rr.c&quot;:1123.333333333333,&quot;rr.end&quot;:28082,&quot;rr.start&quot;:0,&quot;speed.den&quot;:1,&quot;speed.num&quot;:1,&quot;sr.end&quot;:28082,&quot;sr.start&quot;:0,&quot;time&quot;:0}],&quot;source.len&quot;:1123.333333333333,&quot;trim.guid.end&quot;:&quot;5E07CD0E-28B4-42E2-BE18-366E8B1FE9D1&quot;,&quot;trim.guid.start&quot;:&quot;5E07CD0E-28B4-42E2-BE18-366E8B1FE9D1&quot;,&quot;trim.sr.end&quot;:25.08029768899334,&quot;trim.sr.start&quot;:24.920295789861}
+"/>
+<Property key="TimelineType" type="int" value="4"/>
+<Property key="Transform.Angle" type="double" value="0.000000"/>
+<Property key="Transform.CenterPoint" type="NLEPointF" value="x:0.50000000000000000000, y:0.50000000000000000000"/>
+<Property key="Transform.Enabled" type="int" value="1"/>
+<Property key="Transform.Locked" type="int" value="0"/>
+<Property key="Transform.LockedTransform" type="int" value="0"/>
+<Property key="Transform.ResizeScale" type="NLEPointF" value="x:1.00000000000000000000, y:1.00000000000000000000"/>
+<Property key="Transform.ShowTransform" type="int" value="1"/>
+<Property key="UserData" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="5">
+<Property key="Key_AncestralGuid" type="std::wstring" value="{38615193-5fbe-42f6-ab9d-a105e85fc55d}"/>
+<Property key="Key_TimelineGuid" type="std::wstring" value="{19423532-f858-45b7-869d-e4c4e4037b38}"/>
+<Property key="Speed.Scale" type="NLERational" value="[1000000, 1000000]: 1.0000000 "/>
+<Property key="key_timeline_resource_info" type="std::wstring" value="{&quot;download_url&quot;:&quot;D:/Shn android/All song/Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p).mp4&quot;,&quot;name&quot;:&quot;Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p)&quot;}"/>
+<Property key="key_timeline_type" type="std::wstring" value="3"/>
+</Properties>
+</Property>
+<Property key="ViewEdit.Status.Using" type="int" value="1"/>
+<Property key="Volume.Balance" type="int" value="0"/>
+<Property key="Volume.Enabled" type="int" value="1"/>
+<Property key="Volume.Mute" type="int" value="0"/>
+<Property key="Volume.Pitch" type="int" value="0"/>
+<Property key="Volume.Volume" type="double" value="0.000000"/>
+<Property key="base.Enable" type="int" value="1"/>
+<Property key="fade.aud.in.enabled" type="int" value="1"/>
+<Property key="fade.aud.in.range" type="int" value="0"/>
+<Property key="fade.aud.out.enabled" type="int" value="1"/>
+<Property key="fade.aud.out.range" type="int" value="0"/>
+<Property key="fade.aud.renderframerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="z.Alias" type="std::wstring" value=""/>
+<Property key="z.Marker" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="4">
+<Property key="contentEnd" type="NLERational" value="[84247, 3]: 28082.3333333 "/>
+<Property key="framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="trimEnd" type="NLERational" value="[626, 1]: 626.0000000 "/>
+<Property key="trimStart" type="NLERational" value="[623, 1]: 623.0000000 "/>
+</Properties>
+</Property>
+</Properties>
+</TimeLine>
+<TimeLine>
+<Properties Count="68">
+<Property key="Absolute.FilePath" type="std::wstring" value="D:/Shn android/All song/Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p).mp4"/>
+<Property key="Animation.InRatio" type="double" value="0.000000"/>
+<Property key="Animation.OutRatio" type="double" value="0.000000"/>
+<Property key="Animation.StringParam" type="std::wstring" value=""/>
+<Property key="Animation.Type" type="int" value="0"/>
+<Property key="Composition.Enabled" type="int" value="1"/>
+<Property key="Composition.Mode" type="int" value="0"/>
+<Property key="Composition.Opacity" type="int" value="255"/>
+<Property key="Crop.Enabled" type="int" value="0"/>
+<Property key="Crop.Region" type="NLERectF" value="left:0.00000000000000000000, top:0.00000000000000000000, width:1.00000000000000000000, height:1.00000000000000000000"/>
+<Property key="Denoise.Enabled" type="int" value="0"/>
+<Property key="Denoise.Level" type="int" value="0"/>
+<Property key="EffectBasinProp" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="73">
+<Property key="ChromaKey.AlphaChannel" type="int" value="0"/>
+<Property key="ChromaKey.BoundaryChange" type="double" value="-2.000000"/>
+<Property key="ChromaKey.Color" type="int" value="65280"/>
+<Property key="ChromaKey.Enabled" type="int" value="0"/>
+<Property key="ChromaKey.Level" type="double" value="2.000000"/>
+<Property key="ChromaKey.kContrast" type="double" value="50.000000"/>
+<Property key="ChromaKey.kOffset" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoColor.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.AutoColor.Threshold" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoColor.Value" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoEnhance.Amount" type="double" value="50.000000"/>
+<Property key="ColorAdjust.AutoEnhance.Enabled" type="int" value="0"/>
+<Property key="ColorAdjust.Color.Brightness" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Contrast" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Color.Exposure" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Saturation" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Vibrance" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.HSL.Hue.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.LUT.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Light.Blacks" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Light.Highlights" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.Shadow" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.White" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Amount" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Vignette.Exposure" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Feature" type="double" value="50.000000"/>
+<Property key="ColorAdjust.Vignette.Highlights" type="double" value="50.000000"/>
+<Property key="ColorAdjust.Vignette.Roundness" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Size" type="double" value="100.000000"/>
+<Property key="ColorAdjust.WhiteBalance.BGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.WhiteBalance.GGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.RGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Temperature" type="double" value="0.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Tint" type="double" value="0.000000"/>
+<Property key="EffectCover.Enable" type="int" value="1"/>
+<Property key="FlipUp.Enable" type="int" value="0"/>
+<Property key="Mirror.Enable" type="int" value="0"/>
+<Property key="Render.FishEyeEnable" type="int" value="0"/>
+<Property key="Render.FishEyeLevel" type="int" value="0"/>
+<Property key="Shadow.Blur" type="int" value="20"/>
+<Property key="Shadow.Color" type="int" value="0"/>
+<Property key="Shadow.Direction" type="int" value="7"/>
+<Property key="Shadow.Distance" type="int" value="10"/>
+<Property key="Shadow.Enabled" type="int" value="0"/>
+<Property key="Shadow.Transparency" type="int" value="80"/>
+</Properties>
+</Property>
+<Property key="EffectCoverProp" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="2">
+<Property key="EffectCover.Enable" type="int" value="1"/>
+<Property key="z.FilterCount" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Equalizer.Band1" type="double" value="0.000000"/>
+<Property key="Equalizer.Band2" type="double" value="0.000000"/>
+<Property key="Equalizer.Band3" type="double" value="0.000000"/>
+<Property key="Equalizer.Band4" type="double" value="0.000000"/>
+<Property key="Equalizer.Band5" type="double" value="0.000000"/>
+<Property key="Equalizer.Band6" type="double" value="0.000000"/>
+<Property key="Equalizer.Band7" type="double" value="0.000000"/>
+<Property key="Equalizer.Band8" type="double" value="0.000000"/>
+<Property key="Equalizer.Enabled" type="int" value="1"/>
+<Property key="Equalizer.HS" type="double" value="0.000000"/>
+<Property key="Equalizer.Name" type="std::wstring" value="Default"/>
+<Property key="Equalizer.kLS" type="double" value="0.000000"/>
+<Property key="Level" type="int" value="0"/>
+<Property key="MediaInfo" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="12">
+<Property key="Absolute.FilePath" type="std::wstring" value="D:/Shn android/All song/Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p).mp4"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="kAudio_Disable" type="int" value="0"/>
+<Property key="kCodec_FourCC" type="unsigned int" value="1836020585"/>
+<Property key="kMedia.Info.MediaLength" type="double" value="1123.333333"/>
+<Property key="kMedia.Info.SerializedString" type="std::wstring" value="{
+	&quot;MediaInfo&quot;:	{
+		&quot;FileCreateData&quot;:	&quot;2020:4:21:12:3:0,2020:4:21:12:22:0\n&quot;,
+		&quot;FOURCC&quot;:	&quot;1836020585&quot;,
+		&quot;FileName&quot;:	&quot;&quot;,
+		&quot;Description&quot;:	&quot;&quot;,
+		&quot;MediaLength&quot;:	&quot;1123381&quot;,
+		&quot;Bitrate&quot;:	&quot;204368&quot;,
+		&quot;AVScanType&quot;:	&quot;2&quot;,
+		&quot;ProgramCount&quot;:	&quot;1&quot;,
+		&quot;ProgramInfos&quot;:	[{
+				&quot;Number&quot;:	&quot;1&quot;,
+				&quot;ID&quot;:	&quot;1&quot;,
+				&quot;MediaLength&quot;:	&quot;1123381&quot;,
+				&quot;Bitrate&quot;:	&quot;204368&quot;,
+				&quot;TimeStampReferenceStreamID&quot;:	&quot;0&quot;,
+				&quot;VideoStreamCount&quot;:	&quot;1&quot;,
+				&quot;VideoStreamInfos&quot;:	[{
+						&quot;StreamType&quot;:	&quot;2&quot;,
+						&quot;StreamID&quot;:	&quot;0&quot;,
+						&quot;FourCC&quot;:	&quot;875967048&quot;,
+						&quot;State&quot;:	&quot;0&quot;,
+						&quot;Name&quot;:	&quot;H264&quot;,
+						&quot;Description&quot;:	&quot;Advanced Video Codec&quot;,
+						&quot;StreamLength&quot;:	&quot;1123333&quot;,
+						&quot;Bitrate&quot;:	&quot;76369&quot;,
+						&quot;VideoInfo&quot;:	{
+							&quot;Width&quot;:	&quot;256&quot;,
+							&quot;Height&quot;:	&quot;144&quot;,
+							&quot;FrameRate&quot;:	&quot;30000&quot;,
+							&quot;TotalFrame&quot;:	&quot;33700&quot;,
+							&quot;xratio&quot;:	&quot;0&quot;,
+							&quot;yratio&quot;:	&quot;0&quot;,
+							&quot;Compression&quot;:	&quot;842094169&quot;,
+							&quot;BitsDepth&quot;:	&quot;24&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;,
+							&quot;ColorRange&quot;:	&quot;0&quot;,
+							&quot;ColorPrimary&quot;:	&quot;0&quot;
+						},
+						&quot;VideoSrcInfo&quot;:	{
+							&quot;StreamSrcInfoScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcRotate&quot;:	&quot;0&quot;,
+							&quot;VideoInfo&quot;:	{
+								&quot;Width&quot;:	&quot;256&quot;,
+								&quot;Height&quot;:	&quot;144&quot;,
+								&quot;FrameRate&quot;:	&quot;30000&quot;,
+								&quot;TotalFrame&quot;:	&quot;33700&quot;,
+								&quot;xratio&quot;:	&quot;16000&quot;,
+								&quot;yratio&quot;:	&quot;9000&quot;,
+								&quot;Compression&quot;:	&quot;842094169&quot;,
+								&quot;BitsDepth&quot;:	&quot;24&quot;,
+								&quot;CapsFlag&quot;:	&quot;0&quot;,
+								&quot;ColorRange&quot;:	&quot;0&quot;,
+								&quot;ColorPrimary&quot;:	&quot;0&quot;
+							}
+						},
+						&quot;AudioInfo&quot;:	{
+							&quot;SampleRate&quot;:	&quot;0&quot;,
+							&quot;Channels&quot;:	&quot;0&quot;,
+							&quot;Bitspersample&quot;:	&quot;0&quot;,
+							&quot;Bytespersecond&quot;:	&quot;0&quot;,
+							&quot;Length&quot;:	&quot;0&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;
+						},
+						&quot;ptsStart&quot;:	&quot;0&quot;,
+						&quot;ptsOffset&quot;:	&quot;0&quot;
+					}],
+				&quot;AudioStreamCount&quot;:	&quot;1&quot;,
+				&quot;AudioStreamInfos&quot;:	[{
+						&quot;StreamType&quot;:	&quot;3&quot;,
+						&quot;StreamID&quot;:	&quot;1&quot;,
+						&quot;FourCC&quot;:	&quot;541278529&quot;,
+						&quot;State&quot;:	&quot;0&quot;,
+						&quot;Name&quot;:	&quot;AAC &quot;,
+						&quot;Description&quot;:	&quot;Advanced Audio Codec&quot;,
+						&quot;StreamLength&quot;:	&quot;1123381&quot;,
+						&quot;Bitrate&quot;:	&quot;127999&quot;,
+						&quot;VideoInfo&quot;:	{
+							&quot;Width&quot;:	&quot;0&quot;,
+							&quot;Height&quot;:	&quot;0&quot;,
+							&quot;FrameRate&quot;:	&quot;0&quot;,
+							&quot;TotalFrame&quot;:	&quot;0&quot;,
+							&quot;xratio&quot;:	&quot;0&quot;,
+							&quot;yratio&quot;:	&quot;0&quot;,
+							&quot;Compression&quot;:	&quot;0&quot;,
+							&quot;BitsDepth&quot;:	&quot;0&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;,
+							&quot;ColorRange&quot;:	&quot;0&quot;,
+							&quot;ColorPrimary&quot;:	&quot;0&quot;
+						},
+						&quot;VideoSrcInfo&quot;:	{
+							&quot;StreamSrcInfoScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcRotate&quot;:	&quot;0&quot;,
+							&quot;VideoInfo&quot;:	{
+								&quot;Width&quot;:	&quot;0&quot;,
+								&quot;Height&quot;:	&quot;0&quot;,
+								&quot;FrameRate&quot;:	&quot;0&quot;,
+								&quot;TotalFrame&quot;:	&quot;0&quot;,
+								&quot;xratio&quot;:	&quot;0&quot;,
+								&quot;yratio&quot;:	&quot;0&quot;,
+								&quot;Compression&quot;:	&quot;0&quot;,
+								&quot;BitsDepth&quot;:	&quot;0&quot;,
+								&quot;CapsFlag&quot;:	&quot;0&quot;,
+								&quot;ColorRange&quot;:	&quot;0&quot;,
+								&quot;ColorPrimary&quot;:	&quot;0&quot;
+							}
+						},
+						&quot;AudioInfo&quot;:	{
+							&quot;SampleRate&quot;:	&quot;44100&quot;,
+							&quot;Channels&quot;:	&quot;2&quot;,
+							&quot;Bitspersample&quot;:	&quot;16&quot;,
+							&quot;Bytespersecond&quot;:	&quot;15999&quot;,
+							&quot;Length&quot;:	&quot;1123381&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;
+						},
+						&quot;ptsStart&quot;:	&quot;0&quot;,
+						&quot;ptsOffset&quot;:	&quot;0&quot;
+					}],
+				&quot;SubPicStreamCount&quot;:	&quot;0&quot;,
+				&quot;SubPicInfos&quot;:	[]
+			}]
+	}
+}"/>
+<Property key="kMedia.Info.SerializedStringSize" type="int" value="3058"/>
+<Property key="kSource.StreamCount" type="int" value="2"/>
+<Property key="kSource.Stream_0" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="16">
+<Property key="kStream_Type" type="int" value="2"/>
+<Property key="kVideo_Bitrate" type="int" value="76369"/>
+<Property key="kVideo_BitsDepth" type="int" value="24"/>
+<Property key="kVideo_CapsFlag" type="unsigned int" value="0"/>
+<Property key="kVideo_Compression" type="unsigned int" value="842094169"/>
+<Property key="kVideo_Description" type="std::wstring" value="Advanced Video Codec"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+<Property key="kVideo_Duration" type="long long" value="11233333333"/>
+<Property key="kVideo_FourCC" type="unsigned int" value="875967048"/>
+<Property key="kVideo_FrameRate" type="double" value="30.000000"/>
+<Property key="kVideo_Height" type="int" value="144"/>
+<Property key="kVideo_ID" type="unsigned int" value="0"/>
+<Property key="kVideo_Name" type="std::wstring" value="H264"/>
+<Property key="kVideo_State" type="int" value="0"/>
+<Property key="kVideo_TotalFrames" type="int" value="33700"/>
+<Property key="kVideo_Width" type="int" value="256"/>
+</Properties>
+</Property>
+<Property key="kSource.Stream_1" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="15">
+<Property key="Source_ScreenRecordingStreamType" type="unsigned int" value="0"/>
+<Property key="kAduio_CapsFlag" type="unsigned int" value="0"/>
+<Property key="kAudio_Bitrate" type="int" value="127999"/>
+<Property key="kAudio_BitsPerSample" type="int" value="16"/>
+<Property key="kAudio_BytesPerSecond" type="int" value="176400"/>
+<Property key="kAudio_Channels" type="int" value="2"/>
+<Property key="kAudio_Description" type="std::wstring" value="Advanced Audio Codec"/>
+<Property key="kAudio_Disable" type="int" value="0"/>
+<Property key="kAudio_Duration" type="long long" value="11233814058"/>
+<Property key="kAudio_FourCC" type="unsigned int" value="541278529"/>
+<Property key="kAudio_ID" type="unsigned int" value="1"/>
+<Property key="kAudio_Name" type="std::wstring" value="AAC "/>
+<Property key="kAudio_SampleRate" type="int" value="44100"/>
+<Property key="kAudio_State" type="int" value="0"/>
+<Property key="kStream_Type" type="int" value="3"/>
+</Properties>
+</Property>
+<Property key="kStream_ProgramID" type="int" value="1"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Mix2Mono.Enabled" type="int" value="0"/>
+<Property key="ProxySource.Enable" type="int" value="0"/>
+<Property key="ProxySource.ProxyFile.path" type="std::wstring" value=""/>
+<Property key="REFCLSID" type="GUID" value="{FC850F8E-F304-4E87-A00C-9A43291D317F}"/>
+<Property key="Render.ContentRange" type="NLERange" value="Start:0, End:28082"/>
+<Property key="Render.Framerate" type="NLERational" value="[25000000, 1000000]: 25.0000000 "/>
+<Property key="Render.MarginMode" type="int" value="1"/>
+<Property key="Render.NeedPremult" type="int" value="0"/>
+<Property key="Render.Position" type="int" value="6"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:627, End:630"/>
+<Property key="Render.RationPosition" type="NLERational" value="[6, 1]: 6.0000000 "/>
+<Property key="SourceRender_CurrentAudioStreamIndex" type="int" value="1"/>
+<Property key="SourceRender_CurrentVideoStreamIndex" type="int" value="0"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="Stabilization.Enabled" type="int" value="0"/>
+<Property key="Stabilization.Level" type="int" value="10"/>
+<Property key="Timeline.SpeedMarker" type="std::wstring" value="{&quot;fr.den&quot;:1000000,&quot;fr.num&quot;:25000000,&quot;nodes&quot;:[{&quot;audio.pitch&quot;:1,&quot;freeze&quot;:0,&quot;guid&quot;:&quot;5E07CD0E-28B4-42E2-BE18-366E8B1FE9D1&quot;,&quot;inter.mode&quot;:0,&quot;len&quot;:1123.333333333333,&quot;re.begin&quot;:1123.333333333333,&quot;re.eend&quot;:0,&quot;reverse&quot;:0,&quot;rewind.host&quot;:0,&quot;rewind.index&quot;:0,&quot;rr.b&quot;:0,&quot;rr.c&quot;:1123.333333333333,&quot;rr.end&quot;:28082,&quot;rr.start&quot;:0,&quot;speed.den&quot;:1,&quot;speed.num&quot;:1,&quot;sr.end&quot;:28082,&quot;sr.start&quot;:0,&quot;time&quot;:0}],&quot;source.len&quot;:1123.333333333333,&quot;trim.guid.end&quot;:&quot;5E07CD0E-28B4-42E2-BE18-366E8B1FE9D1&quot;,&quot;trim.guid.start&quot;:&quot;5E07CD0E-28B4-42E2-BE18-366E8B1FE9D1&quot;,&quot;trim.sr.end&quot;:25.24029958812567,&quot;trim.sr.start&quot;:25.08029768899334}
+"/>
+<Property key="TimelineType" type="int" value="4"/>
+<Property key="Transform.Angle" type="double" value="0.000000"/>
+<Property key="Transform.CenterPoint" type="NLEPointF" value="x:0.50000000000000000000, y:0.50000000000000000000"/>
+<Property key="Transform.Enabled" type="int" value="1"/>
+<Property key="Transform.Locked" type="int" value="0"/>
+<Property key="Transform.LockedTransform" type="int" value="0"/>
+<Property key="Transform.ResizeScale" type="NLEPointF" value="x:1.00000000000000000000, y:1.00000000000000000000"/>
+<Property key="Transform.ShowTransform" type="int" value="1"/>
+<Property key="UserData" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="5">
+<Property key="Key_AncestralGuid" type="std::wstring" value="{38615193-5fbe-42f6-ab9d-a105e85fc55d}"/>
+<Property key="Key_TimelineGuid" type="std::wstring" value="{f70d4e80-dbe4-4cec-8ff4-6d2a512e3176}"/>
+<Property key="Speed.Scale" type="NLERational" value="[1000000, 1000000]: 1.0000000 "/>
+<Property key="key_timeline_resource_info" type="std::wstring" value="{&quot;download_url&quot;:&quot;D:/Shn android/All song/Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p).mp4&quot;,&quot;name&quot;:&quot;Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p)&quot;}"/>
+<Property key="key_timeline_type" type="std::wstring" value="3"/>
+</Properties>
+</Property>
+<Property key="ViewEdit.Status.Using" type="int" value="1"/>
+<Property key="Volume.Balance" type="int" value="0"/>
+<Property key="Volume.Enabled" type="int" value="1"/>
+<Property key="Volume.Mute" type="int" value="0"/>
+<Property key="Volume.Pitch" type="int" value="0"/>
+<Property key="Volume.Volume" type="double" value="0.000000"/>
+<Property key="base.Enable" type="int" value="1"/>
+<Property key="fade.aud.in.enabled" type="int" value="1"/>
+<Property key="fade.aud.in.range" type="int" value="0"/>
+<Property key="fade.aud.out.enabled" type="int" value="1"/>
+<Property key="fade.aud.out.range" type="int" value="0"/>
+<Property key="fade.aud.renderframerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="z.Alias" type="std::wstring" value=""/>
+<Property key="z.Marker" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="4">
+<Property key="contentEnd" type="NLERational" value="[84247, 3]: 28082.3333333 "/>
+<Property key="framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="trimEnd" type="NLERational" value="[630, 1]: 630.0000000 "/>
+<Property key="trimStart" type="NLERational" value="[627, 1]: 627.0000000 "/>
+</Properties>
+</Property>
+</Properties>
+</TimeLine>
+<TimeLine>
+<Properties Count="68">
+<Property key="Absolute.FilePath" type="std::wstring" value="D:/Shn android/All song/Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p).mp4"/>
+<Property key="Animation.InRatio" type="double" value="0.000000"/>
+<Property key="Animation.OutRatio" type="double" value="0.000000"/>
+<Property key="Animation.StringParam" type="std::wstring" value=""/>
+<Property key="Animation.Type" type="int" value="0"/>
+<Property key="Composition.Enabled" type="int" value="1"/>
+<Property key="Composition.Mode" type="int" value="0"/>
+<Property key="Composition.Opacity" type="int" value="255"/>
+<Property key="Crop.Enabled" type="int" value="0"/>
+<Property key="Crop.Region" type="NLERectF" value="left:0.00000000000000000000, top:0.00000000000000000000, width:1.00000000000000000000, height:1.00000000000000000000"/>
+<Property key="Denoise.Enabled" type="int" value="0"/>
+<Property key="Denoise.Level" type="int" value="0"/>
+<Property key="EffectBasinProp" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="73">
+<Property key="ChromaKey.AlphaChannel" type="int" value="0"/>
+<Property key="ChromaKey.BoundaryChange" type="double" value="-2.000000"/>
+<Property key="ChromaKey.Color" type="int" value="65280"/>
+<Property key="ChromaKey.Enabled" type="int" value="0"/>
+<Property key="ChromaKey.Level" type="double" value="2.000000"/>
+<Property key="ChromaKey.kContrast" type="double" value="50.000000"/>
+<Property key="ChromaKey.kOffset" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoColor.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.AutoColor.Threshold" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoColor.Value" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoEnhance.Amount" type="double" value="50.000000"/>
+<Property key="ColorAdjust.AutoEnhance.Enabled" type="int" value="0"/>
+<Property key="ColorAdjust.Color.Brightness" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Contrast" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Color.Exposure" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Saturation" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Vibrance" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.HSL.Hue.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.LUT.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Light.Blacks" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Light.Highlights" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.Shadow" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.White" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Amount" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Vignette.Exposure" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Feature" type="double" value="50.000000"/>
+<Property key="ColorAdjust.Vignette.Highlights" type="double" value="50.000000"/>
+<Property key="ColorAdjust.Vignette.Roundness" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Size" type="double" value="100.000000"/>
+<Property key="ColorAdjust.WhiteBalance.BGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.WhiteBalance.GGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.RGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Temperature" type="double" value="0.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Tint" type="double" value="0.000000"/>
+<Property key="EffectCover.Enable" type="int" value="1"/>
+<Property key="FlipUp.Enable" type="int" value="0"/>
+<Property key="Mirror.Enable" type="int" value="0"/>
+<Property key="Render.FishEyeEnable" type="int" value="0"/>
+<Property key="Render.FishEyeLevel" type="int" value="0"/>
+<Property key="Shadow.Blur" type="int" value="20"/>
+<Property key="Shadow.Color" type="int" value="0"/>
+<Property key="Shadow.Direction" type="int" value="7"/>
+<Property key="Shadow.Distance" type="int" value="10"/>
+<Property key="Shadow.Enabled" type="int" value="0"/>
+<Property key="Shadow.Transparency" type="int" value="80"/>
+</Properties>
+</Property>
+<Property key="EffectCoverProp" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="2">
+<Property key="EffectCover.Enable" type="int" value="1"/>
+<Property key="z.FilterCount" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Equalizer.Band1" type="double" value="0.000000"/>
+<Property key="Equalizer.Band2" type="double" value="0.000000"/>
+<Property key="Equalizer.Band3" type="double" value="0.000000"/>
+<Property key="Equalizer.Band4" type="double" value="0.000000"/>
+<Property key="Equalizer.Band5" type="double" value="0.000000"/>
+<Property key="Equalizer.Band6" type="double" value="0.000000"/>
+<Property key="Equalizer.Band7" type="double" value="0.000000"/>
+<Property key="Equalizer.Band8" type="double" value="0.000000"/>
+<Property key="Equalizer.Enabled" type="int" value="1"/>
+<Property key="Equalizer.HS" type="double" value="0.000000"/>
+<Property key="Equalizer.Name" type="std::wstring" value="Default"/>
+<Property key="Equalizer.kLS" type="double" value="0.000000"/>
+<Property key="Level" type="int" value="0"/>
+<Property key="MediaInfo" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="12">
+<Property key="Absolute.FilePath" type="std::wstring" value="D:/Shn android/All song/Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p).mp4"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="kAudio_Disable" type="int" value="0"/>
+<Property key="kCodec_FourCC" type="unsigned int" value="1836020585"/>
+<Property key="kMedia.Info.MediaLength" type="double" value="1123.333333"/>
+<Property key="kMedia.Info.SerializedString" type="std::wstring" value="{
+	&quot;MediaInfo&quot;:	{
+		&quot;FileCreateData&quot;:	&quot;2020:4:21:12:3:0,2020:4:21:12:22:0\n&quot;,
+		&quot;FOURCC&quot;:	&quot;1836020585&quot;,
+		&quot;FileName&quot;:	&quot;&quot;,
+		&quot;Description&quot;:	&quot;&quot;,
+		&quot;MediaLength&quot;:	&quot;1123381&quot;,
+		&quot;Bitrate&quot;:	&quot;204368&quot;,
+		&quot;AVScanType&quot;:	&quot;2&quot;,
+		&quot;ProgramCount&quot;:	&quot;1&quot;,
+		&quot;ProgramInfos&quot;:	[{
+				&quot;Number&quot;:	&quot;1&quot;,
+				&quot;ID&quot;:	&quot;1&quot;,
+				&quot;MediaLength&quot;:	&quot;1123381&quot;,
+				&quot;Bitrate&quot;:	&quot;204368&quot;,
+				&quot;TimeStampReferenceStreamID&quot;:	&quot;0&quot;,
+				&quot;VideoStreamCount&quot;:	&quot;1&quot;,
+				&quot;VideoStreamInfos&quot;:	[{
+						&quot;StreamType&quot;:	&quot;2&quot;,
+						&quot;StreamID&quot;:	&quot;0&quot;,
+						&quot;FourCC&quot;:	&quot;875967048&quot;,
+						&quot;State&quot;:	&quot;0&quot;,
+						&quot;Name&quot;:	&quot;H264&quot;,
+						&quot;Description&quot;:	&quot;Advanced Video Codec&quot;,
+						&quot;StreamLength&quot;:	&quot;1123333&quot;,
+						&quot;Bitrate&quot;:	&quot;76369&quot;,
+						&quot;VideoInfo&quot;:	{
+							&quot;Width&quot;:	&quot;256&quot;,
+							&quot;Height&quot;:	&quot;144&quot;,
+							&quot;FrameRate&quot;:	&quot;30000&quot;,
+							&quot;TotalFrame&quot;:	&quot;33700&quot;,
+							&quot;xratio&quot;:	&quot;0&quot;,
+							&quot;yratio&quot;:	&quot;0&quot;,
+							&quot;Compression&quot;:	&quot;842094169&quot;,
+							&quot;BitsDepth&quot;:	&quot;24&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;,
+							&quot;ColorRange&quot;:	&quot;0&quot;,
+							&quot;ColorPrimary&quot;:	&quot;0&quot;
+						},
+						&quot;VideoSrcInfo&quot;:	{
+							&quot;StreamSrcInfoScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcRotate&quot;:	&quot;0&quot;,
+							&quot;VideoInfo&quot;:	{
+								&quot;Width&quot;:	&quot;256&quot;,
+								&quot;Height&quot;:	&quot;144&quot;,
+								&quot;FrameRate&quot;:	&quot;30000&quot;,
+								&quot;TotalFrame&quot;:	&quot;33700&quot;,
+								&quot;xratio&quot;:	&quot;16000&quot;,
+								&quot;yratio&quot;:	&quot;9000&quot;,
+								&quot;Compression&quot;:	&quot;842094169&quot;,
+								&quot;BitsDepth&quot;:	&quot;24&quot;,
+								&quot;CapsFlag&quot;:	&quot;0&quot;,
+								&quot;ColorRange&quot;:	&quot;0&quot;,
+								&quot;ColorPrimary&quot;:	&quot;0&quot;
+							}
+						},
+						&quot;AudioInfo&quot;:	{
+							&quot;SampleRate&quot;:	&quot;0&quot;,
+							&quot;Channels&quot;:	&quot;0&quot;,
+							&quot;Bitspersample&quot;:	&quot;0&quot;,
+							&quot;Bytespersecond&quot;:	&quot;0&quot;,
+							&quot;Length&quot;:	&quot;0&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;
+						},
+						&quot;ptsStart&quot;:	&quot;0&quot;,
+						&quot;ptsOffset&quot;:	&quot;0&quot;
+					}],
+				&quot;AudioStreamCount&quot;:	&quot;1&quot;,
+				&quot;AudioStreamInfos&quot;:	[{
+						&quot;StreamType&quot;:	&quot;3&quot;,
+						&quot;StreamID&quot;:	&quot;1&quot;,
+						&quot;FourCC&quot;:	&quot;541278529&quot;,
+						&quot;State&quot;:	&quot;0&quot;,
+						&quot;Name&quot;:	&quot;AAC &quot;,
+						&quot;Description&quot;:	&quot;Advanced Audio Codec&quot;,
+						&quot;StreamLength&quot;:	&quot;1123381&quot;,
+						&quot;Bitrate&quot;:	&quot;127999&quot;,
+						&quot;VideoInfo&quot;:	{
+							&quot;Width&quot;:	&quot;0&quot;,
+							&quot;Height&quot;:	&quot;0&quot;,
+							&quot;FrameRate&quot;:	&quot;0&quot;,
+							&quot;TotalFrame&quot;:	&quot;0&quot;,
+							&quot;xratio&quot;:	&quot;0&quot;,
+							&quot;yratio&quot;:	&quot;0&quot;,
+							&quot;Compression&quot;:	&quot;0&quot;,
+							&quot;BitsDepth&quot;:	&quot;0&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;,
+							&quot;ColorRange&quot;:	&quot;0&quot;,
+							&quot;ColorPrimary&quot;:	&quot;0&quot;
+						},
+						&quot;VideoSrcInfo&quot;:	{
+							&quot;StreamSrcInfoScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcRotate&quot;:	&quot;0&quot;,
+							&quot;VideoInfo&quot;:	{
+								&quot;Width&quot;:	&quot;0&quot;,
+								&quot;Height&quot;:	&quot;0&quot;,
+								&quot;FrameRate&quot;:	&quot;0&quot;,
+								&quot;TotalFrame&quot;:	&quot;0&quot;,
+								&quot;xratio&quot;:	&quot;0&quot;,
+								&quot;yratio&quot;:	&quot;0&quot;,
+								&quot;Compression&quot;:	&quot;0&quot;,
+								&quot;BitsDepth&quot;:	&quot;0&quot;,
+								&quot;CapsFlag&quot;:	&quot;0&quot;,
+								&quot;ColorRange&quot;:	&quot;0&quot;,
+								&quot;ColorPrimary&quot;:	&quot;0&quot;
+							}
+						},
+						&quot;AudioInfo&quot;:	{
+							&quot;SampleRate&quot;:	&quot;44100&quot;,
+							&quot;Channels&quot;:	&quot;2&quot;,
+							&quot;Bitspersample&quot;:	&quot;16&quot;,
+							&quot;Bytespersecond&quot;:	&quot;15999&quot;,
+							&quot;Length&quot;:	&quot;1123381&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;
+						},
+						&quot;ptsStart&quot;:	&quot;0&quot;,
+						&quot;ptsOffset&quot;:	&quot;0&quot;
+					}],
+				&quot;SubPicStreamCount&quot;:	&quot;0&quot;,
+				&quot;SubPicInfos&quot;:	[]
+			}]
+	}
+}"/>
+<Property key="kMedia.Info.SerializedStringSize" type="int" value="3058"/>
+<Property key="kSource.StreamCount" type="int" value="2"/>
+<Property key="kSource.Stream_0" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="16">
+<Property key="kStream_Type" type="int" value="2"/>
+<Property key="kVideo_Bitrate" type="int" value="76369"/>
+<Property key="kVideo_BitsDepth" type="int" value="24"/>
+<Property key="kVideo_CapsFlag" type="unsigned int" value="0"/>
+<Property key="kVideo_Compression" type="unsigned int" value="842094169"/>
+<Property key="kVideo_Description" type="std::wstring" value="Advanced Video Codec"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+<Property key="kVideo_Duration" type="long long" value="11233333333"/>
+<Property key="kVideo_FourCC" type="unsigned int" value="875967048"/>
+<Property key="kVideo_FrameRate" type="double" value="30.000000"/>
+<Property key="kVideo_Height" type="int" value="144"/>
+<Property key="kVideo_ID" type="unsigned int" value="0"/>
+<Property key="kVideo_Name" type="std::wstring" value="H264"/>
+<Property key="kVideo_State" type="int" value="0"/>
+<Property key="kVideo_TotalFrames" type="int" value="33700"/>
+<Property key="kVideo_Width" type="int" value="256"/>
+</Properties>
+</Property>
+<Property key="kSource.Stream_1" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="15">
+<Property key="Source_ScreenRecordingStreamType" type="unsigned int" value="0"/>
+<Property key="kAduio_CapsFlag" type="unsigned int" value="0"/>
+<Property key="kAudio_Bitrate" type="int" value="127999"/>
+<Property key="kAudio_BitsPerSample" type="int" value="16"/>
+<Property key="kAudio_BytesPerSecond" type="int" value="176400"/>
+<Property key="kAudio_Channels" type="int" value="2"/>
+<Property key="kAudio_Description" type="std::wstring" value="Advanced Audio Codec"/>
+<Property key="kAudio_Disable" type="int" value="0"/>
+<Property key="kAudio_Duration" type="long long" value="11233814058"/>
+<Property key="kAudio_FourCC" type="unsigned int" value="541278529"/>
+<Property key="kAudio_ID" type="unsigned int" value="1"/>
+<Property key="kAudio_Name" type="std::wstring" value="AAC "/>
+<Property key="kAudio_SampleRate" type="int" value="44100"/>
+<Property key="kAudio_State" type="int" value="0"/>
+<Property key="kStream_Type" type="int" value="3"/>
+</Properties>
+</Property>
+<Property key="kStream_ProgramID" type="int" value="1"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Mix2Mono.Enabled" type="int" value="0"/>
+<Property key="ProxySource.Enable" type="int" value="0"/>
+<Property key="ProxySource.ProxyFile.path" type="std::wstring" value=""/>
+<Property key="REFCLSID" type="GUID" value="{FC850F8E-F304-4E87-A00C-9A43291D317F}"/>
+<Property key="Render.ContentRange" type="NLERange" value="Start:0, End:28082"/>
+<Property key="Render.Framerate" type="NLERational" value="[25000000, 1000000]: 25.0000000 "/>
+<Property key="Render.MarginMode" type="int" value="1"/>
+<Property key="Render.NeedPremult" type="int" value="0"/>
+<Property key="Render.Position" type="int" value="10"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:631, End:632"/>
+<Property key="Render.RationPosition" type="NLERational" value="[10, 1]: 10.0000000 "/>
+<Property key="SourceRender_CurrentAudioStreamIndex" type="int" value="1"/>
+<Property key="SourceRender_CurrentVideoStreamIndex" type="int" value="0"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="Stabilization.Enabled" type="int" value="0"/>
+<Property key="Stabilization.Level" type="int" value="10"/>
+<Property key="Timeline.SpeedMarker" type="std::wstring" value="{&quot;fr.den&quot;:1000000,&quot;fr.num&quot;:25000000,&quot;nodes&quot;:[{&quot;audio.pitch&quot;:1,&quot;freeze&quot;:0,&quot;guid&quot;:&quot;5E07CD0E-28B4-42E2-BE18-366E8B1FE9D1&quot;,&quot;inter.mode&quot;:0,&quot;len&quot;:1123.333333333333,&quot;re.begin&quot;:1123.333333333333,&quot;re.eend&quot;:0,&quot;reverse&quot;:0,&quot;rewind.host&quot;:0,&quot;rewind.index&quot;:0,&quot;rr.b&quot;:0,&quot;rr.c&quot;:1123.333333333333,&quot;rr.end&quot;:28082,&quot;rr.start&quot;:0,&quot;speed.den&quot;:1,&quot;speed.num&quot;:1,&quot;sr.end&quot;:28082,&quot;sr.start&quot;:0,&quot;time&quot;:0}],&quot;source.len&quot;:1123.333333333333,&quot;trim.guid.end&quot;:&quot;5E07CD0E-28B4-42E2-BE18-366E8B1FE9D1&quot;,&quot;trim.guid.start&quot;:&quot;5E07CD0E-28B4-42E2-BE18-366E8B1FE9D1&quot;,&quot;trim.sr.end&quot;:25.32030053769184,&quot;trim.sr.start&quot;:25.24029958812567}
+"/>
+<Property key="TimelineType" type="int" value="4"/>
+<Property key="Transform.Angle" type="double" value="0.000000"/>
+<Property key="Transform.CenterPoint" type="NLEPointF" value="x:0.50000000000000000000, y:0.50000000000000000000"/>
+<Property key="Transform.Enabled" type="int" value="1"/>
+<Property key="Transform.Locked" type="int" value="0"/>
+<Property key="Transform.LockedTransform" type="int" value="0"/>
+<Property key="Transform.ResizeScale" type="NLEPointF" value="x:1.00000000000000000000, y:1.00000000000000000000"/>
+<Property key="Transform.ShowTransform" type="int" value="1"/>
+<Property key="UserData" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="5">
+<Property key="Key_AncestralGuid" type="std::wstring" value="{38615193-5fbe-42f6-ab9d-a105e85fc55d}"/>
+<Property key="Key_TimelineGuid" type="std::wstring" value="{e6d29a1d-8471-424c-b218-b62c82b98ce0}"/>
+<Property key="Speed.Scale" type="NLERational" value="[1000000, 1000000]: 1.0000000 "/>
+<Property key="key_timeline_resource_info" type="std::wstring" value="{&quot;download_url&quot;:&quot;D:/Shn android/All song/Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p).mp4&quot;,&quot;name&quot;:&quot;Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p)&quot;}"/>
+<Property key="key_timeline_type" type="std::wstring" value="3"/>
+</Properties>
+</Property>
+<Property key="ViewEdit.Status.Using" type="int" value="1"/>
+<Property key="Volume.Balance" type="int" value="0"/>
+<Property key="Volume.Enabled" type="int" value="1"/>
+<Property key="Volume.Mute" type="int" value="0"/>
+<Property key="Volume.Pitch" type="int" value="0"/>
+<Property key="Volume.Volume" type="double" value="0.000000"/>
+<Property key="base.Enable" type="int" value="1"/>
+<Property key="fade.aud.in.enabled" type="int" value="1"/>
+<Property key="fade.aud.in.range" type="int" value="0"/>
+<Property key="fade.aud.out.enabled" type="int" value="1"/>
+<Property key="fade.aud.out.range" type="int" value="0"/>
+<Property key="fade.aud.renderframerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="z.Alias" type="std::wstring" value=""/>
+<Property key="z.Marker" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="4">
+<Property key="contentEnd" type="NLERational" value="[84247, 3]: 28082.3333333 "/>
+<Property key="framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="trimEnd" type="NLERational" value="[632, 1]: 632.0000000 "/>
+<Property key="trimStart" type="NLERational" value="[631, 1]: 631.0000000 "/>
+</Properties>
+</Property>
+</Properties>
+</TimeLine>
+<TimeLine>
+<Properties Count="68">
+<Property key="Absolute.FilePath" type="std::wstring" value="D:/Shn android/All song/Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p).mp4"/>
+<Property key="Animation.InRatio" type="double" value="0.000000"/>
+<Property key="Animation.OutRatio" type="double" value="0.000000"/>
+<Property key="Animation.StringParam" type="std::wstring" value=""/>
+<Property key="Animation.Type" type="int" value="0"/>
+<Property key="Composition.Enabled" type="int" value="1"/>
+<Property key="Composition.Mode" type="int" value="0"/>
+<Property key="Composition.Opacity" type="int" value="255"/>
+<Property key="Crop.Enabled" type="int" value="0"/>
+<Property key="Crop.Region" type="NLERectF" value="left:0.00000000000000000000, top:0.00000000000000000000, width:1.00000000000000000000, height:1.00000000000000000000"/>
+<Property key="Denoise.Enabled" type="int" value="0"/>
+<Property key="Denoise.Level" type="int" value="0"/>
+<Property key="EffectBasinProp" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="73">
+<Property key="ChromaKey.AlphaChannel" type="int" value="0"/>
+<Property key="ChromaKey.BoundaryChange" type="double" value="-2.000000"/>
+<Property key="ChromaKey.Color" type="int" value="65280"/>
+<Property key="ChromaKey.Enabled" type="int" value="0"/>
+<Property key="ChromaKey.Level" type="double" value="2.000000"/>
+<Property key="ChromaKey.kContrast" type="double" value="50.000000"/>
+<Property key="ChromaKey.kOffset" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoColor.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.AutoColor.Threshold" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoColor.Value" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoEnhance.Amount" type="double" value="50.000000"/>
+<Property key="ColorAdjust.AutoEnhance.Enabled" type="int" value="0"/>
+<Property key="ColorAdjust.Color.Brightness" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Contrast" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Color.Exposure" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Saturation" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Vibrance" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.HSL.Hue.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.LUT.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Light.Blacks" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Light.Highlights" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.Shadow" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.White" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Amount" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Vignette.Exposure" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Feature" type="double" value="50.000000"/>
+<Property key="ColorAdjust.Vignette.Highlights" type="double" value="50.000000"/>
+<Property key="ColorAdjust.Vignette.Roundness" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Size" type="double" value="100.000000"/>
+<Property key="ColorAdjust.WhiteBalance.BGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.WhiteBalance.GGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.RGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Temperature" type="double" value="0.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Tint" type="double" value="0.000000"/>
+<Property key="EffectCover.Enable" type="int" value="1"/>
+<Property key="FlipUp.Enable" type="int" value="0"/>
+<Property key="Mirror.Enable" type="int" value="0"/>
+<Property key="Render.FishEyeEnable" type="int" value="0"/>
+<Property key="Render.FishEyeLevel" type="int" value="0"/>
+<Property key="Shadow.Blur" type="int" value="20"/>
+<Property key="Shadow.Color" type="int" value="0"/>
+<Property key="Shadow.Direction" type="int" value="7"/>
+<Property key="Shadow.Distance" type="int" value="10"/>
+<Property key="Shadow.Enabled" type="int" value="0"/>
+<Property key="Shadow.Transparency" type="int" value="80"/>
+</Properties>
+</Property>
+<Property key="EffectCoverProp" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="2">
+<Property key="EffectCover.Enable" type="int" value="1"/>
+<Property key="z.FilterCount" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Equalizer.Band1" type="double" value="0.000000"/>
+<Property key="Equalizer.Band2" type="double" value="0.000000"/>
+<Property key="Equalizer.Band3" type="double" value="0.000000"/>
+<Property key="Equalizer.Band4" type="double" value="0.000000"/>
+<Property key="Equalizer.Band5" type="double" value="0.000000"/>
+<Property key="Equalizer.Band6" type="double" value="0.000000"/>
+<Property key="Equalizer.Band7" type="double" value="0.000000"/>
+<Property key="Equalizer.Band8" type="double" value="0.000000"/>
+<Property key="Equalizer.Enabled" type="int" value="1"/>
+<Property key="Equalizer.HS" type="double" value="0.000000"/>
+<Property key="Equalizer.Name" type="std::wstring" value="Default"/>
+<Property key="Equalizer.kLS" type="double" value="0.000000"/>
+<Property key="Level" type="int" value="0"/>
+<Property key="MediaInfo" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="12">
+<Property key="Absolute.FilePath" type="std::wstring" value="D:/Shn android/All song/Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p).mp4"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="kAudio_Disable" type="int" value="0"/>
+<Property key="kCodec_FourCC" type="unsigned int" value="1836020585"/>
+<Property key="kMedia.Info.MediaLength" type="double" value="1123.333333"/>
+<Property key="kMedia.Info.SerializedString" type="std::wstring" value="{
+	&quot;MediaInfo&quot;:	{
+		&quot;FileCreateData&quot;:	&quot;2020:4:21:12:3:0,2020:4:21:12:22:0\n&quot;,
+		&quot;FOURCC&quot;:	&quot;1836020585&quot;,
+		&quot;FileName&quot;:	&quot;&quot;,
+		&quot;Description&quot;:	&quot;&quot;,
+		&quot;MediaLength&quot;:	&quot;1123381&quot;,
+		&quot;Bitrate&quot;:	&quot;204368&quot;,
+		&quot;AVScanType&quot;:	&quot;2&quot;,
+		&quot;ProgramCount&quot;:	&quot;1&quot;,
+		&quot;ProgramInfos&quot;:	[{
+				&quot;Number&quot;:	&quot;1&quot;,
+				&quot;ID&quot;:	&quot;1&quot;,
+				&quot;MediaLength&quot;:	&quot;1123381&quot;,
+				&quot;Bitrate&quot;:	&quot;204368&quot;,
+				&quot;TimeStampReferenceStreamID&quot;:	&quot;0&quot;,
+				&quot;VideoStreamCount&quot;:	&quot;1&quot;,
+				&quot;VideoStreamInfos&quot;:	[{
+						&quot;StreamType&quot;:	&quot;2&quot;,
+						&quot;StreamID&quot;:	&quot;0&quot;,
+						&quot;FourCC&quot;:	&quot;875967048&quot;,
+						&quot;State&quot;:	&quot;0&quot;,
+						&quot;Name&quot;:	&quot;H264&quot;,
+						&quot;Description&quot;:	&quot;Advanced Video Codec&quot;,
+						&quot;StreamLength&quot;:	&quot;1123333&quot;,
+						&quot;Bitrate&quot;:	&quot;76369&quot;,
+						&quot;VideoInfo&quot;:	{
+							&quot;Width&quot;:	&quot;256&quot;,
+							&quot;Height&quot;:	&quot;144&quot;,
+							&quot;FrameRate&quot;:	&quot;30000&quot;,
+							&quot;TotalFrame&quot;:	&quot;33700&quot;,
+							&quot;xratio&quot;:	&quot;0&quot;,
+							&quot;yratio&quot;:	&quot;0&quot;,
+							&quot;Compression&quot;:	&quot;842094169&quot;,
+							&quot;BitsDepth&quot;:	&quot;24&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;,
+							&quot;ColorRange&quot;:	&quot;0&quot;,
+							&quot;ColorPrimary&quot;:	&quot;0&quot;
+						},
+						&quot;VideoSrcInfo&quot;:	{
+							&quot;StreamSrcInfoScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcRotate&quot;:	&quot;0&quot;,
+							&quot;VideoInfo&quot;:	{
+								&quot;Width&quot;:	&quot;256&quot;,
+								&quot;Height&quot;:	&quot;144&quot;,
+								&quot;FrameRate&quot;:	&quot;30000&quot;,
+								&quot;TotalFrame&quot;:	&quot;33700&quot;,
+								&quot;xratio&quot;:	&quot;16000&quot;,
+								&quot;yratio&quot;:	&quot;9000&quot;,
+								&quot;Compression&quot;:	&quot;842094169&quot;,
+								&quot;BitsDepth&quot;:	&quot;24&quot;,
+								&quot;CapsFlag&quot;:	&quot;0&quot;,
+								&quot;ColorRange&quot;:	&quot;0&quot;,
+								&quot;ColorPrimary&quot;:	&quot;0&quot;
+							}
+						},
+						&quot;AudioInfo&quot;:	{
+							&quot;SampleRate&quot;:	&quot;0&quot;,
+							&quot;Channels&quot;:	&quot;0&quot;,
+							&quot;Bitspersample&quot;:	&quot;0&quot;,
+							&quot;Bytespersecond&quot;:	&quot;0&quot;,
+							&quot;Length&quot;:	&quot;0&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;
+						},
+						&quot;ptsStart&quot;:	&quot;0&quot;,
+						&quot;ptsOffset&quot;:	&quot;0&quot;
+					}],
+				&quot;AudioStreamCount&quot;:	&quot;1&quot;,
+				&quot;AudioStreamInfos&quot;:	[{
+						&quot;StreamType&quot;:	&quot;3&quot;,
+						&quot;StreamID&quot;:	&quot;1&quot;,
+						&quot;FourCC&quot;:	&quot;541278529&quot;,
+						&quot;State&quot;:	&quot;0&quot;,
+						&quot;Name&quot;:	&quot;AAC &quot;,
+						&quot;Description&quot;:	&quot;Advanced Audio Codec&quot;,
+						&quot;StreamLength&quot;:	&quot;1123381&quot;,
+						&quot;Bitrate&quot;:	&quot;127999&quot;,
+						&quot;VideoInfo&quot;:	{
+							&quot;Width&quot;:	&quot;0&quot;,
+							&quot;Height&quot;:	&quot;0&quot;,
+							&quot;FrameRate&quot;:	&quot;0&quot;,
+							&quot;TotalFrame&quot;:	&quot;0&quot;,
+							&quot;xratio&quot;:	&quot;0&quot;,
+							&quot;yratio&quot;:	&quot;0&quot;,
+							&quot;Compression&quot;:	&quot;0&quot;,
+							&quot;BitsDepth&quot;:	&quot;0&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;,
+							&quot;ColorRange&quot;:	&quot;0&quot;,
+							&quot;ColorPrimary&quot;:	&quot;0&quot;
+						},
+						&quot;VideoSrcInfo&quot;:	{
+							&quot;StreamSrcInfoScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcRotate&quot;:	&quot;0&quot;,
+							&quot;VideoInfo&quot;:	{
+								&quot;Width&quot;:	&quot;0&quot;,
+								&quot;Height&quot;:	&quot;0&quot;,
+								&quot;FrameRate&quot;:	&quot;0&quot;,
+								&quot;TotalFrame&quot;:	&quot;0&quot;,
+								&quot;xratio&quot;:	&quot;0&quot;,
+								&quot;yratio&quot;:	&quot;0&quot;,
+								&quot;Compression&quot;:	&quot;0&quot;,
+								&quot;BitsDepth&quot;:	&quot;0&quot;,
+								&quot;CapsFlag&quot;:	&quot;0&quot;,
+								&quot;ColorRange&quot;:	&quot;0&quot;,
+								&quot;ColorPrimary&quot;:	&quot;0&quot;
+							}
+						},
+						&quot;AudioInfo&quot;:	{
+							&quot;SampleRate&quot;:	&quot;44100&quot;,
+							&quot;Channels&quot;:	&quot;2&quot;,
+							&quot;Bitspersample&quot;:	&quot;16&quot;,
+							&quot;Bytespersecond&quot;:	&quot;15999&quot;,
+							&quot;Length&quot;:	&quot;1123381&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;
+						},
+						&quot;ptsStart&quot;:	&quot;0&quot;,
+						&quot;ptsOffset&quot;:	&quot;0&quot;
+					}],
+				&quot;SubPicStreamCount&quot;:	&quot;0&quot;,
+				&quot;SubPicInfos&quot;:	[]
+			}]
+	}
+}"/>
+<Property key="kMedia.Info.SerializedStringSize" type="int" value="3058"/>
+<Property key="kSource.StreamCount" type="int" value="2"/>
+<Property key="kSource.Stream_0" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="16">
+<Property key="kStream_Type" type="int" value="2"/>
+<Property key="kVideo_Bitrate" type="int" value="76369"/>
+<Property key="kVideo_BitsDepth" type="int" value="24"/>
+<Property key="kVideo_CapsFlag" type="unsigned int" value="0"/>
+<Property key="kVideo_Compression" type="unsigned int" value="842094169"/>
+<Property key="kVideo_Description" type="std::wstring" value="Advanced Video Codec"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+<Property key="kVideo_Duration" type="long long" value="11233333333"/>
+<Property key="kVideo_FourCC" type="unsigned int" value="875967048"/>
+<Property key="kVideo_FrameRate" type="double" value="30.000000"/>
+<Property key="kVideo_Height" type="int" value="144"/>
+<Property key="kVideo_ID" type="unsigned int" value="0"/>
+<Property key="kVideo_Name" type="std::wstring" value="H264"/>
+<Property key="kVideo_State" type="int" value="0"/>
+<Property key="kVideo_TotalFrames" type="int" value="33700"/>
+<Property key="kVideo_Width" type="int" value="256"/>
+</Properties>
+</Property>
+<Property key="kSource.Stream_1" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="15">
+<Property key="Source_ScreenRecordingStreamType" type="unsigned int" value="0"/>
+<Property key="kAduio_CapsFlag" type="unsigned int" value="0"/>
+<Property key="kAudio_Bitrate" type="int" value="127999"/>
+<Property key="kAudio_BitsPerSample" type="int" value="16"/>
+<Property key="kAudio_BytesPerSecond" type="int" value="176400"/>
+<Property key="kAudio_Channels" type="int" value="2"/>
+<Property key="kAudio_Description" type="std::wstring" value="Advanced Audio Codec"/>
+<Property key="kAudio_Disable" type="int" value="0"/>
+<Property key="kAudio_Duration" type="long long" value="11233814058"/>
+<Property key="kAudio_FourCC" type="unsigned int" value="541278529"/>
+<Property key="kAudio_ID" type="unsigned int" value="1"/>
+<Property key="kAudio_Name" type="std::wstring" value="AAC "/>
+<Property key="kAudio_SampleRate" type="int" value="44100"/>
+<Property key="kAudio_State" type="int" value="0"/>
+<Property key="kStream_Type" type="int" value="3"/>
+</Properties>
+</Property>
+<Property key="kStream_ProgramID" type="int" value="1"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Mix2Mono.Enabled" type="int" value="0"/>
+<Property key="ProxySource.Enable" type="int" value="0"/>
+<Property key="ProxySource.ProxyFile.path" type="std::wstring" value=""/>
+<Property key="REFCLSID" type="GUID" value="{FC850F8E-F304-4E87-A00C-9A43291D317F}"/>
+<Property key="Render.ContentRange" type="NLERange" value="Start:0, End:28082"/>
+<Property key="Render.Framerate" type="NLERational" value="[25000000, 1000000]: 25.0000000 "/>
+<Property key="Render.MarginMode" type="int" value="1"/>
+<Property key="Render.NeedPremult" type="int" value="0"/>
+<Property key="Render.Position" type="int" value="12"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:633, End:28082"/>
+<Property key="Render.RationPosition" type="NLERational" value="[12, 1]: 12.0000000 "/>
+<Property key="SourceRender_CurrentAudioStreamIndex" type="int" value="1"/>
+<Property key="SourceRender_CurrentVideoStreamIndex" type="int" value="0"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="Stabilization.Enabled" type="int" value="0"/>
+<Property key="Stabilization.Level" type="int" value="10"/>
+<Property key="Timeline.SpeedMarker" type="std::wstring" value="{&quot;fr.den&quot;:1000000,&quot;fr.num&quot;:25000000,&quot;nodes&quot;:[{&quot;audio.pitch&quot;:1,&quot;freeze&quot;:0,&quot;guid&quot;:&quot;5E07CD0E-28B4-42E2-BE18-366E8B1FE9D1&quot;,&quot;inter.mode&quot;:0,&quot;len&quot;:1123.333333333333,&quot;re.begin&quot;:1123.333333333333,&quot;re.eend&quot;:0,&quot;reverse&quot;:0,&quot;rewind.host&quot;:0,&quot;rewind.index&quot;:0,&quot;rr.b&quot;:0,&quot;rr.c&quot;:1123.333333333333,&quot;rr.end&quot;:28082,&quot;rr.start&quot;:0,&quot;speed.den&quot;:1,&quot;speed.num&quot;:1,&quot;sr.end&quot;:28082,&quot;sr.start&quot;:0,&quot;time&quot;:0}],&quot;source.len&quot;:1123.333333333333,&quot;trim.guid.end&quot;:&quot;5E07CD0E-28B4-42E2-BE18-366E8B1FE9D1&quot;,&quot;trim.guid.start&quot;:&quot;5E07CD0E-28B4-42E2-BE18-366E8B1FE9D1&quot;,&quot;trim.sr.end&quot;:1123.333333333333,&quot;trim.sr.start&quot;:25.32030053769184}
+"/>
+<Property key="TimelineType" type="int" value="4"/>
+<Property key="Transform.Angle" type="double" value="0.000000"/>
+<Property key="Transform.CenterPoint" type="NLEPointF" value="x:0.50000000000000000000, y:0.50000000000000000000"/>
+<Property key="Transform.Enabled" type="int" value="1"/>
+<Property key="Transform.Locked" type="int" value="0"/>
+<Property key="Transform.LockedTransform" type="int" value="0"/>
+<Property key="Transform.ResizeScale" type="NLEPointF" value="x:1.00000000000000000000, y:1.00000000000000000000"/>
+<Property key="Transform.ShowTransform" type="int" value="1"/>
+<Property key="UserData" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="5">
+<Property key="Key_AncestralGuid" type="std::wstring" value="{38615193-5fbe-42f6-ab9d-a105e85fc55d}"/>
+<Property key="Key_TimelineGuid" type="std::wstring" value="{dbf68e60-d756-467f-ac6e-e694d6731678}"/>
+<Property key="Speed.Scale" type="NLERational" value="[1000000, 1000000]: 1.0000000 "/>
+<Property key="key_timeline_resource_info" type="std::wstring" value="{&quot;download_url&quot;:&quot;D:/Shn android/All song/Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p).mp4&quot;,&quot;name&quot;:&quot;Pakistan_vs_Bangladesh_2020__Full_Highlights__2nd_T20I__PCB(144p)&quot;}"/>
+<Property key="key_timeline_type" type="std::wstring" value="3"/>
+</Properties>
+</Property>
+<Property key="ViewEdit.Status.Using" type="int" value="1"/>
+<Property key="Volume.Balance" type="int" value="0"/>
+<Property key="Volume.Enabled" type="int" value="1"/>
+<Property key="Volume.Mute" type="int" value="0"/>
+<Property key="Volume.Pitch" type="int" value="0"/>
+<Property key="Volume.Volume" type="double" value="0.000000"/>
+<Property key="base.Enable" type="int" value="1"/>
+<Property key="fade.aud.in.enabled" type="int" value="1"/>
+<Property key="fade.aud.in.range" type="int" value="0"/>
+<Property key="fade.aud.out.enabled" type="int" value="1"/>
+<Property key="fade.aud.out.range" type="int" value="0"/>
+<Property key="fade.aud.renderframerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="z.Alias" type="std::wstring" value=""/>
+<Property key="z.Marker" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="4">
+<Property key="contentEnd" type="NLERational" value="[84247, 3]: 28082.3333333 "/>
+<Property key="framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="trimEnd" type="NLERational" value="[28082, 1]: 28082.0000000 "/>
+<Property key="trimStart" type="NLERational" value="[633, 1]: 633.0000000 "/>
+</Properties>
+</Property>
+</Properties>
+</TimeLine>
+<TimeLine>
+<Properties Count="31">
+<Property key="Animation.InRatio" type="double" value="0.000000"/>
+<Property key="Animation.OutRatio" type="double" value="0.000000"/>
+<Property key="Animation.StringParam" type="std::wstring" value=""/>
+<Property key="Animation.Type" type="int" value="0"/>
+<Property key="Children.Count" type="int" value="2"/>
+<Property key="Composition.Enabled" type="int" value="1"/>
+<Property key="Composition.Mode" type="int" value="0"/>
+<Property key="Composition.Opacity" type="int" value="255"/>
+<Property key="EffectBasinProp" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="73">
+<Property key="ChromaKey.AlphaChannel" type="int" value="0"/>
+<Property key="ChromaKey.BoundaryChange" type="double" value="-2.000000"/>
+<Property key="ChromaKey.Color" type="int" value="65280"/>
+<Property key="ChromaKey.Enabled" type="int" value="0"/>
+<Property key="ChromaKey.Level" type="double" value="2.000000"/>
+<Property key="ChromaKey.kContrast" type="double" value="50.000000"/>
+<Property key="ChromaKey.kOffset" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoColor.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.AutoColor.Threshold" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoColor.Value" type="double" value="0.000000"/>
+<Property key="ColorAdjust.AutoEnhance.Amount" type="double" value="50.000000"/>
+<Property key="ColorAdjust.AutoEnhance.Enabled" type="int" value="0"/>
+<Property key="ColorAdjust.Color.Brightness" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Contrast" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Color.Exposure" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Saturation" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Color.Vibrance" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.HSL.Hue.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Hue.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Luminance.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.0" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.1" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.2" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.3" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.4" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.5" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.6" type="double" value="0.000000"/>
+<Property key="ColorAdjust.HSL.Saturation.7" type="double" value="0.000000"/>
+<Property key="ColorAdjust.LUT.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Light.Blacks" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Light.Highlights" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.Shadow" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Light.White" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Amount" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.Vignette.Exposure" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Feature" type="double" value="50.000000"/>
+<Property key="ColorAdjust.Vignette.Highlights" type="double" value="50.000000"/>
+<Property key="ColorAdjust.Vignette.Roundness" type="double" value="0.000000"/>
+<Property key="ColorAdjust.Vignette.Size" type="double" value="100.000000"/>
+<Property key="ColorAdjust.WhiteBalance.BGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Enabled" type="int" value="1"/>
+<Property key="ColorAdjust.WhiteBalance.GGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.RGain" type="double" value="1.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Temperature" type="double" value="0.000000"/>
+<Property key="ColorAdjust.WhiteBalance.Tint" type="double" value="0.000000"/>
+<Property key="EffectCover.Enable" type="int" value="1"/>
+<Property key="FlipUp.Enable" type="int" value="0"/>
+<Property key="Mirror.Enable" type="int" value="0"/>
+<Property key="Render.FishEyeEnable" type="int" value="0"/>
+<Property key="Render.FishEyeLevel" type="int" value="0"/>
+<Property key="Shadow.Blur" type="int" value="20"/>
+<Property key="Shadow.Color" type="int" value="0"/>
+<Property key="Shadow.Direction" type="int" value="7"/>
+<Property key="Shadow.Distance" type="int" value="10"/>
+<Property key="Shadow.Enabled" type="int" value="0"/>
+<Property key="Shadow.Transparency" type="int" value="80"/>
+</Properties>
+</Property>
+<Property key="EffectCoverProp" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="2">
+<Property key="EffectCover.Enable" type="int" value="1"/>
+<Property key="z.FilterCount" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Level" type="int" value="1"/>
+<Property key="REFCLSID" type="GUID" value="{8F6EF468-2F80-A782-B74B-DB21422F6BC5}"/>
+<Property key="Render.ContentRange" type="NLERange" value="Start:0, End:124"/>
+<Property key="Render.Framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="Render.MarginMode" type="int" value="5"/>
+<Property key="Render.Position" type="int" value="0"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:124"/>
+<Property key="Render.RationPosition" type="NLERational" value="[0, 1]: 0.0000000 "/>
+<Property key="TimelineType" type="int" value="16"/>
+<Property key="Transform.Angle" type="double" value="0.000000"/>
+<Property key="Transform.CenterPoint" type="NLEPointF" value="x:0.50000000000000000000, y:0.50000000000000000000"/>
+<Property key="Transform.Enabled" type="int" value="1"/>
+<Property key="Transform.Locked" type="int" value="1"/>
+<Property key="Transform.LockedTransform" type="int" value="0"/>
+<Property key="Transform.ResizeScale" type="NLEPointF" value="x:1.00000000000000000000, y:1.00000000000000000000"/>
+<Property key="Transform.ShowTransform" type="int" value="1"/>
+<Property key="UserData" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="5">
+<Property key="Key_AncestralGuid" type="std::wstring" value="{35312842-6ca5-42bb-bdc1-33b3438f07b6}"/>
+<Property key="Key_TimelineGuid" type="std::wstring" value="{7c55200b-c4c3-4223-abc6-2ac7bebf882b}"/>
+<Property key="key_timeline_markInOut_enable" type="int" value="0"/>
+<Property key="key_timeline_resource_info" type="std::wstring" value="{&quot;download_url&quot;:&quot;&quot;,&quot;id&quot;:&quot;80179&quot;,&quot;key_resource_packname&quot;:&quot;DefaultPackage_93&quot;,&quot;name&quot;:&quot;New LowerThirds 1&quot;,&quot;resourcePackID&quot;:&quot;3375&quot;,&quot;titles&quot;:&quot;New_LowerThirds_1&quot;}"/>
+<Property key="key_timeline_type" type="std::wstring" value="5"/>
+</Properties>
+</Property>
+<Property key="ViewEdit.Status.Using" type="int" value="1"/>
+<Property key="base.Enable" type="int" value="1"/>
+<Property key="z.Alias" type="std::wstring" value="TopTimeline"/>
+<Property key="z.Marker" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="4">
+<Property key="contentEnd" type="NLERational" value="[124, 1]: 124.0000000 "/>
+<Property key="framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="trimEnd" type="NLERational" value="[124, 1]: 124.0000000 "/>
+<Property key="trimStart" type="NLERational" value="[0, 1]: 0.0000000 "/>
+</Properties>
+</Property>
+</Properties>
+<TimeLine>
+<Properties Count="29">
+<Property key="Animation.InRatio" type="double" value="0.000000"/>
+<Property key="Animation.OutRatio" type="double" value="0.000000"/>
+<Property key="Animation.StringParam" type="std::wstring" value=""/>
+<Property key="Animation.Type" type="int" value="0"/>
+<Property key="Composition.Enabled" type="int" value="1"/>
+<Property key="Composition.Mode" type="int" value="0"/>
+<Property key="Composition.Opacity" type="int" value="255"/>
+<Property key="Level" type="int" value="0"/>
+<Property key="REFCLSID" type="GUID" value="{79611D62-6E52-4062-B6F5-15B06C6D3881}"/>
+<Property key="Render.ContentRange" type="NLERange" value="Start:0, End:124"/>
+<Property key="Render.Framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="Render.MarginMode" type="int" value="5"/>
+<Property key="Render.Position" type="int" value="0"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:124"/>
+<Property key="Render.RationPosition" type="NLERational" value="[0, 1]: 0.0000000 "/>
+<Property key="Skottie.File" type="std::wstring" value="DefaultPackage/1_New_LowerThirds_1/Data/Lottie_lower3rd_01.json"/>
+<Property key="TimelineType" type="int" value="64"/>
+<Property key="Transform.Angle" type="double" value="0.000000"/>
+<Property key="Transform.CenterPoint" type="NLEPointF" value="x:0.30481867084890907000, y:0.84846322119742090000"/>
+<Property key="Transform.Enabled" type="int" value="1"/>
+<Property key="Transform.Locked" type="int" value="0"/>
+<Property key="Transform.LockedTransform" type="int" value="0"/>
+<Property key="Transform.ResizeScale" type="NLEPointF" value="x:0.54913785898514744000, y:0.54913785898514744000"/>
+<Property key="Transform.ShowTransform" type="int" value="1"/>
+<Property key="UserData" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="5">
+<Property key="Key_AncestralGuid" type="std::wstring" value="{60e20b45-3af6-4c08-87b1-d791788710b7}"/>
+<Property key="Key_TimelineGuid" type="std::wstring" value="{a7ed226c-de2e-4b6b-8a1c-6530bac01daf}"/>
+<Property key="Speed.Scale" type="NLERational" value="[1000000, 1000000]: 1.0000000 "/>
+<Property key="key_timeline_resource_info" type="std::wstring" value="{&quot;download_url&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;}"/>
+<Property key="key_timeline_type" type="std::wstring" value="14"/>
+</Properties>
+</Property>
+<Property key="ViewEdit.Status.Using" type="int" value="1"/>
+<Property key="base.Enable" type="int" value="1"/>
+<Property key="z.Alias" type="std::wstring" value="LowerThird 4_L0.mp4"/>
+<Property key="z.Marker" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="4">
+<Property key="contentEnd" type="NLERational" value="[124, 1]: 124.0000000 "/>
+<Property key="framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="trimEnd" type="NLERational" value="[124, 1]: 124.0000000 "/>
+<Property key="trimStart" type="NLERational" value="[0, 1]: 0.0000000 "/>
+</Properties>
+</Property>
+</Properties>
+</TimeLine>
+<TimeLine>
+<Properties Count="31">
+<Property key="Animation.InRatio" type="double" value="0.168000"/>
+<Property key="Animation.OutRatio" type="double" value="0.112360"/>
+<Property key="Animation.StringParam" type="std::wstring" value="C:/ProgramData/Wondershare Filmora/Captions/Base/Type Writer.xml"/>
+<Property key="Animation.Type" type="int" value="3"/>
+<Property key="Composition.Enabled" type="int" value="1"/>
+<Property key="Composition.Mode" type="int" value="0"/>
+<Property key="Composition.Opacity" type="int" value="255"/>
+<Property key="Level" type="int" value="1"/>
+<Property key="REFCLSID" type="GUID" value="{4E03287E-3F81-43F0-9548-9E42627C9FC1}"/>
+<Property key="Render.ContentRange" type="NLERange" value="Start:0, End:124"/>
+<Property key="Render.Framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="Render.MarginMode" type="int" value="5"/>
+<Property key="Render.Position" type="int" value="11"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:99"/>
+<Property key="Render.RationPosition" type="NLERational" value="[11, 1]: 11.0000000 "/>
+<Property key="Text.Section.CaptionData" type="std::wstring" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;NLETitleArray&gt;&lt;NLETitleItem&gt;&lt;ShapeParam ShapeID=&quot;1&quot;&gt;&lt;ShapeGeometry ShapeGeometryWidth=&quot;600&quot; ShapeGeometryHeight=&quot;600&quot; ShapeGeometryPointCnt=&quot;0&quot;/&gt;&lt;ShapeColor&gt;&lt;ShapeFace ColorEnable=&quot;1&quot; ColorType=&quot;0&quot; FaceBlurType=&quot;0&quot; FaceBlurWidth=&quot;0&quot;&gt;&lt;SingleColor A=&quot;0&quot; R=&quot;255&quot; G=&quot;255&quot; B=&quot;255&quot;/&gt;&lt;GradientColor GradientDir=&quot;-1&quot;&gt;&lt;GradientColorStart A=&quot;0&quot; R=&quot;255&quot; G=&quot;255&quot; B=&quot;255&quot;/&gt;&lt;GradientColorEnd A=&quot;0&quot; R=&quot;255&quot; G=&quot;255&quot; B=&quot;255&quot;/&gt;&lt;/GradientColor&gt;&lt;/ShapeFace&gt;&lt;ShapeBorder ColorEnable=&quot;1&quot; ColorType=&quot;0&quot; BorderWidth=&quot;0&quot; BorderBlur=&quot;0&quot;&gt;&lt;SingleColor A=&quot;0&quot; R=&quot;255&quot; G=&quot;255&quot; B=&quot;255&quot;/&gt;&lt;GradientColor GradientDir=&quot;-1&quot;&gt;&lt;GradientColorStart A=&quot;0&quot; R=&quot;255&quot; G=&quot;255&quot; B=&quot;255&quot;/&gt;&lt;GradientColorEnd A=&quot;0&quot; R=&quot;255&quot; G=&quot;255&quot; B=&quot;255&quot;/&gt;&lt;/GradientColor&gt;&lt;/ShapeBorder&gt;&lt;/ShapeColor&gt;&lt;/ShapeParam&gt;&lt;EffectParam/&gt;&lt;TextNode&gt;&lt;TextParam&gt;&lt;TextData Align=&quot;0&quot; Radius=&quot;0&quot; Angle=&quot;0&quot; TextMode=&quot;1&quot;&gt;&lt;CharData Title=&quot;0043007200690063006B00650074002000460061006E0073002D00420044&quot; RowSpace=&quot;0&quot; LineSpace=&quot;0&quot;&gt;&lt;Font Version=&quot;1&quot; Size=&quot;36&quot; Bold=&quot;0&quot; Italic=&quot;0&quot; FontName=&quot;004E006F0074006F002000530061006E007300200042006F006C00640020004900740061006C00690063&quot;/&gt;&lt;Face Enable=&quot;1&quot; Color1=&quot;16777215&quot; Alpha=&quot;255&quot; BlurRadius=&quot;0&quot; Effect=&quot;0&quot;/&gt;&lt;Border Enable=&quot;0&quot; Size=&quot;8&quot; Color1=&quot;16711935&quot; Alpha=&quot;255&quot; BlurRadius=&quot;0&quot;/&gt;&lt;Shadow Enable=&quot;0&quot; Color=&quot;0&quot; Alpha=&quot;255&quot; BlurRadius=&quot;5&quot; Distance=&quot;4&quot; Direction=&quot;3&quot;/&gt;&lt;/CharData&gt;&lt;/TextData&gt;&lt;Texture Enable=&quot;0&quot; TextureImagePath=&quot;&quot; TextureImageTempPath=&quot;&quot;/&gt;&lt;Gradient Enable=&quot;0&quot; Color1=&quot;16777215&quot; Color2=&quot;16777215&quot; GradType=&quot;0&quot;/&gt;&lt;/TextParam&gt;&lt;EffectParam VZoom=&quot;1&quot; HZoom=&quot;1&quot;/&gt;&lt;AnimationParam Type=&quot;0&quot;&gt;&lt;AnimationConfig AnimationType=&quot;0&quot; InterpolateType=&quot;0&quot; DurationType=&quot;1&quot; StartValue=&quot;0&quot; EndValue=&quot;255&quot; Property=&quot;0&quot;/&gt;&lt;AnimationConfig AnimationType=&quot;1&quot; InterpolateType=&quot;0&quot; DurationType=&quot;1&quot; StartValue=&quot;255&quot; EndValue=&quot;0&quot; Property=&quot;0&quot;/&gt;&lt;/AnimationParam&gt;&lt;/TextNode&gt;&lt;/NLETitleItem&gt;&lt;/NLETitleArray&gt;"/>
+<Property key="Text.Section.CaptionDataLength" type="int" value="1874"/>
+<Property key="Text.Section.CaptionOutputSize" type="NLEPointF" value="x:116.36550818644676000000, y:22.14996400000000400000"/>
+<Property key="TimelineType" type="int" value="8"/>
+<Property key="Transform.Angle" type="double" value="0.000000"/>
+<Property key="Transform.CenterPoint" type="NLEPointF" value="x:0.28684431054576187000, y:0.84713834397680510000"/>
+<Property key="Transform.Enabled" type="int" value="1"/>
+<Property key="Transform.Locked" type="int" value="0"/>
+<Property key="Transform.LockedTransform" type="int" value="0"/>
+<Property key="Transform.ResizeScale" type="NLEPointF" value="x:0.30948326131844150000, y:0.30948326131844145000"/>
+<Property key="Transform.ShowTransform" type="int" value="1"/>
+<Property key="UserData" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="5">
+<Property key="Key_AncestralGuid" type="std::wstring" value="{3019a105-9700-47a7-af14-e7c05f47af79}"/>
+<Property key="Key_TimelineGuid" type="std::wstring" value="{ff95010e-a0ea-4fea-b98a-44e36107f84e}"/>
+<Property key="Motion.Type" type="int" value="3"/>
+<Property key="key_timeline_resource_info" type="std::wstring" value="{&quot;download_url&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;}"/>
+<Property key="key_timeline_type" type="std::wstring" value="5"/>
+</Properties>
+</Property>
+<Property key="ViewEdit.Status.Using" type="int" value="1"/>
+<Property key="base.Enable" type="int" value="1"/>
+<Property key="z.Alias" type="std::wstring" value="Caption"/>
+<Property key="z.Marker" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="4">
+<Property key="contentEnd" type="NLERational" value="[124, 1]: 124.0000000 "/>
+<Property key="framerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="trimEnd" type="NLERational" value="[99, 1]: 99.0000000 "/>
+<Property key="trimStart" type="NLERational" value="[0, 1]: 0.0000000 "/>
+</Properties>
+</Property>
+</Properties>
+</TimeLine>
+</TimeLine>
+</TimeLine>

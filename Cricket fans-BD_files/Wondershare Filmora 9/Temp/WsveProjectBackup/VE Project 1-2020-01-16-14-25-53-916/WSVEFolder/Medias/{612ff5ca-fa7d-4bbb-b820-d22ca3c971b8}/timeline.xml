@@ -1,0 +1,261 @@
+<TimeLine>
+<Properties Count="66">
+<Property key="Absolute.FilePath" type="std::wstring" value="D:/Shn android/All song/Vale_vale_SONG_BY_DJ_ALOK_X_FREE_FIRE___FREE_FIRE_NEW_SONG__FREE_FIRE_COLLABE(360p).mp4"/>
+<Property key="Animation.InRatio" type="double" value="0.000000"/>
+<Property key="Animation.OutRatio" type="double" value="0.000000"/>
+<Property key="Animation.StringParam" type="std::wstring" value=""/>
+<Property key="Animation.Type" type="int" value="0"/>
+<Property key="Composition.Enabled" type="int" value="1"/>
+<Property key="Composition.Mode" type="int" value="0"/>
+<Property key="Composition.Opacity" type="int" value="255"/>
+<Property key="Crop.Enabled" type="int" value="0"/>
+<Property key="Crop.Region" type="NLERectF" value="left:0.00000000000000000000, top:0.00000000000000000000, width:1.00000000000000000000, height:1.00000000000000000000"/>
+<Property key="Denoise.Enabled" type="int" value="0"/>
+<Property key="Denoise.Level" type="int" value="0"/>
+<Property key="Equalizer.Band1" type="double" value="0.000000"/>
+<Property key="Equalizer.Band2" type="double" value="0.000000"/>
+<Property key="Equalizer.Band3" type="double" value="0.000000"/>
+<Property key="Equalizer.Band4" type="double" value="0.000000"/>
+<Property key="Equalizer.Band5" type="double" value="0.000000"/>
+<Property key="Equalizer.Band6" type="double" value="0.000000"/>
+<Property key="Equalizer.Band7" type="double" value="0.000000"/>
+<Property key="Equalizer.Band8" type="double" value="0.000000"/>
+<Property key="Equalizer.Enabled" type="int" value="0"/>
+<Property key="Equalizer.HS" type="double" value="0.000000"/>
+<Property key="Equalizer.Name" type="std::wstring" value="Default"/>
+<Property key="Equalizer.kLS" type="double" value="0.000000"/>
+<Property key="Level" type="int" value="-1"/>
+<Property key="MediaInfo" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="12">
+<Property key="Absolute.FilePath" type="std::wstring" value="D:/Shn android/All song/Vale_vale_SONG_BY_DJ_ALOK_X_FREE_FIRE___FREE_FIRE_NEW_SONG__FREE_FIRE_COLLABE(360p).mp4"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="kAudio_Disable" type="int" value="0"/>
+<Property key="kCodec_FourCC" type="unsigned int" value="842297453"/>
+<Property key="kMedia.Info.MediaLength" type="double" value="130.375000"/>
+<Property key="kMedia.Info.SerializedString" type="std::wstring" value="{
+	&quot;MediaInfo&quot;:	{
+		&quot;FileCreateData&quot;:	&quot;2019:11:6:12:12:0,2019:12:30:7:25:0\n&quot;,
+		&quot;FOURCC&quot;:	&quot;842297453&quot;,
+		&quot;FileName&quot;:	&quot;&quot;,
+		&quot;Description&quot;:	&quot;&quot;,
+		&quot;MediaLength&quot;:	&quot;130542&quot;,
+		&quot;Bitrate&quot;:	&quot;681433&quot;,
+		&quot;AVScanType&quot;:	&quot;2&quot;,
+		&quot;ProgramCount&quot;:	&quot;1&quot;,
+		&quot;ProgramInfos&quot;:	[{
+				&quot;Number&quot;:	&quot;1&quot;,
+				&quot;ID&quot;:	&quot;1&quot;,
+				&quot;MediaLength&quot;:	&quot;130542&quot;,
+				&quot;Bitrate&quot;:	&quot;681433&quot;,
+				&quot;TimeStampReferenceStreamID&quot;:	&quot;0&quot;,
+				&quot;VideoStreamCount&quot;:	&quot;1&quot;,
+				&quot;VideoStreamInfos&quot;:	[{
+						&quot;StreamType&quot;:	&quot;2&quot;,
+						&quot;StreamID&quot;:	&quot;0&quot;,
+						&quot;FourCC&quot;:	&quot;875967048&quot;,
+						&quot;State&quot;:	&quot;0&quot;,
+						&quot;Name&quot;:	&quot;H264&quot;,
+						&quot;Description&quot;:	&quot;Advanced Video Codec&quot;,
+						&quot;StreamLength&quot;:	&quot;130375&quot;,
+						&quot;Bitrate&quot;:	&quot;585433&quot;,
+						&quot;VideoInfo&quot;:	{
+							&quot;Width&quot;:	&quot;640&quot;,
+							&quot;Height&quot;:	&quot;360&quot;,
+							&quot;FrameRate&quot;:	&quot;24000&quot;,
+							&quot;TotalFrame&quot;:	&quot;3129&quot;,
+							&quot;xratio&quot;:	&quot;0&quot;,
+							&quot;yratio&quot;:	&quot;0&quot;,
+							&quot;Compression&quot;:	&quot;842094169&quot;,
+							&quot;BitsDepth&quot;:	&quot;24&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;,
+							&quot;ColorRange&quot;:	&quot;0&quot;,
+							&quot;ColorPrimary&quot;:	&quot;0&quot;
+						},
+						&quot;VideoSrcInfo&quot;:	{
+							&quot;StreamSrcInfoScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcRotate&quot;:	&quot;0&quot;,
+							&quot;VideoInfo&quot;:	{
+								&quot;Width&quot;:	&quot;640&quot;,
+								&quot;Height&quot;:	&quot;360&quot;,
+								&quot;FrameRate&quot;:	&quot;24000&quot;,
+								&quot;TotalFrame&quot;:	&quot;3129&quot;,
+								&quot;xratio&quot;:	&quot;16000&quot;,
+								&quot;yratio&quot;:	&quot;9000&quot;,
+								&quot;Compression&quot;:	&quot;842094169&quot;,
+								&quot;BitsDepth&quot;:	&quot;24&quot;,
+								&quot;CapsFlag&quot;:	&quot;0&quot;,
+								&quot;ColorRange&quot;:	&quot;0&quot;,
+								&quot;ColorPrimary&quot;:	&quot;0&quot;
+							}
+						},
+						&quot;AudioInfo&quot;:	{
+							&quot;SampleRate&quot;:	&quot;0&quot;,
+							&quot;Channels&quot;:	&quot;0&quot;,
+							&quot;Bitspersample&quot;:	&quot;0&quot;,
+							&quot;Bytespersecond&quot;:	&quot;0&quot;,
+							&quot;Length&quot;:	&quot;0&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;
+						},
+						&quot;ptsStart&quot;:	&quot;0&quot;,
+						&quot;ptsOffset&quot;:	&quot;0&quot;
+					}],
+				&quot;AudioStreamCount&quot;:	&quot;1&quot;,
+				&quot;AudioStreamInfos&quot;:	[{
+						&quot;StreamType&quot;:	&quot;3&quot;,
+						&quot;StreamID&quot;:	&quot;1&quot;,
+						&quot;FourCC&quot;:	&quot;541278529&quot;,
+						&quot;State&quot;:	&quot;0&quot;,
+						&quot;Name&quot;:	&quot;AAC &quot;,
+						&quot;Description&quot;:	&quot;Advanced Audio Codec&quot;,
+						&quot;StreamLength&quot;:	&quot;130542&quot;,
+						&quot;Bitrate&quot;:	&quot;96000&quot;,
+						&quot;VideoInfo&quot;:	{
+							&quot;Width&quot;:	&quot;0&quot;,
+							&quot;Height&quot;:	&quot;0&quot;,
+							&quot;FrameRate&quot;:	&quot;0&quot;,
+							&quot;TotalFrame&quot;:	&quot;0&quot;,
+							&quot;xratio&quot;:	&quot;0&quot;,
+							&quot;yratio&quot;:	&quot;0&quot;,
+							&quot;Compression&quot;:	&quot;0&quot;,
+							&quot;BitsDepth&quot;:	&quot;0&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;,
+							&quot;ColorRange&quot;:	&quot;0&quot;,
+							&quot;ColorPrimary&quot;:	&quot;0&quot;
+						},
+						&quot;VideoSrcInfo&quot;:	{
+							&quot;StreamSrcInfoScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcRotate&quot;:	&quot;0&quot;,
+							&quot;VideoInfo&quot;:	{
+								&quot;Width&quot;:	&quot;0&quot;,
+								&quot;Height&quot;:	&quot;0&quot;,
+								&quot;FrameRate&quot;:	&quot;0&quot;,
+								&quot;TotalFrame&quot;:	&quot;0&quot;,
+								&quot;xratio&quot;:	&quot;0&quot;,
+								&quot;yratio&quot;:	&quot;0&quot;,
+								&quot;Compression&quot;:	&quot;0&quot;,
+								&quot;BitsDepth&quot;:	&quot;0&quot;,
+								&quot;CapsFlag&quot;:	&quot;0&quot;,
+								&quot;ColorRange&quot;:	&quot;0&quot;,
+								&quot;ColorPrimary&quot;:	&quot;0&quot;
+							}
+						},
+						&quot;AudioInfo&quot;:	{
+							&quot;SampleRate&quot;:	&quot;44100&quot;,
+							&quot;Channels&quot;:	&quot;2&quot;,
+							&quot;Bitspersample&quot;:	&quot;16&quot;,
+							&quot;Bytespersecond&quot;:	&quot;12000&quot;,
+							&quot;Length&quot;:	&quot;130542&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;
+						},
+						&quot;ptsStart&quot;:	&quot;0&quot;,
+						&quot;ptsOffset&quot;:	&quot;0&quot;
+					}],
+				&quot;SubPicStreamCount&quot;:	&quot;0&quot;,
+				&quot;SubPicInfos&quot;:	[]
+			}]
+	}
+}"/>
+<Property key="kMedia.Info.SerializedStringSize" type="int" value="3051"/>
+<Property key="kSource.StreamCount" type="int" value="2"/>
+<Property key="kSource.Stream_0" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="16">
+<Property key="kStream_Type" type="int" value="2"/>
+<Property key="kVideo_Bitrate" type="int" value="585433"/>
+<Property key="kVideo_BitsDepth" type="int" value="24"/>
+<Property key="kVideo_CapsFlag" type="unsigned int" value="0"/>
+<Property key="kVideo_Compression" type="unsigned int" value="842094169"/>
+<Property key="kVideo_Description" type="std::wstring" value="Advanced Video Codec"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+<Property key="kVideo_Duration" type="long long" value="1303750000"/>
+<Property key="kVideo_FourCC" type="unsigned int" value="875967048"/>
+<Property key="kVideo_FrameRate" type="double" value="24.000000"/>
+<Property key="kVideo_Height" type="int" value="360"/>
+<Property key="kVideo_ID" type="unsigned int" value="0"/>
+<Property key="kVideo_Name" type="std::wstring" value="H264"/>
+<Property key="kVideo_State" type="int" value="0"/>
+<Property key="kVideo_TotalFrames" type="int" value="3129"/>
+<Property key="kVideo_Width" type="int" value="640"/>
+</Properties>
+</Property>
+<Property key="kSource.Stream_1" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="15">
+<Property key="Source_ScreenRecordingStreamType" type="unsigned int" value="0"/>
+<Property key="kAduio_CapsFlag" type="unsigned int" value="0"/>
+<Property key="kAudio_Bitrate" type="int" value="96000"/>
+<Property key="kAudio_BitsPerSample" type="int" value="16"/>
+<Property key="kAudio_BytesPerSecond" type="int" value="176400"/>
+<Property key="kAudio_Channels" type="int" value="2"/>
+<Property key="kAudio_Description" type="std::wstring" value="Advanced Audio Codec"/>
+<Property key="kAudio_Disable" type="int" value="0"/>
+<Property key="kAudio_Duration" type="long long" value="1305425850"/>
+<Property key="kAudio_FourCC" type="unsigned int" value="541278529"/>
+<Property key="kAudio_ID" type="unsigned int" value="1"/>
+<Property key="kAudio_Name" type="std::wstring" value="AAC "/>
+<Property key="kAudio_SampleRate" type="int" value="44100"/>
+<Property key="kAudio_State" type="int" value="0"/>
+<Property key="kStream_Type" type="int" value="3"/>
+</Properties>
+</Property>
+<Property key="kStream_ProgramID" type="int" value="1"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Mix2Mono.Enabled" type="int" value="0"/>
+<Property key="ProxySource.Enable" type="int" value="0"/>
+<Property key="ProxySource.ProxyFile.path" type="std::wstring" value=""/>
+<Property key="REFCLSID" type="GUID" value="{FC850F8E-F304-4E87-A00C-9A43291D317F}"/>
+<Property key="Render.ContentRange" type="NLERange" value="Start:0, End:3128"/>
+<Property key="Render.Framerate" type="NLERational" value="[24, 1]: 24.0000000 "/>
+<Property key="Render.MarginMode" type="int" value="1"/>
+<Property key="Render.NeedPremult" type="int" value="0"/>
+<Property key="Render.Position" type="int" value="0"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:3128"/>
+<Property key="Render.RationPosition" type="NLERational" value="[0, 1]: 0.0000000 "/>
+<Property key="SourceRender_CurrentAudioStreamIndex" type="int" value="1"/>
+<Property key="SourceRender_CurrentVideoStreamIndex" type="int" value="0"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="Stabilization.Enabled" type="int" value="0"/>
+<Property key="Stabilization.Level" type="int" value="10"/>
+<Property key="Timeline.SpeedMarker" type="std::wstring" value="{&quot;fr.den&quot;:1,&quot;fr.num&quot;:24,&quot;nodes&quot;:[{&quot;audio.pitch&quot;:1,&quot;freeze&quot;:0,&quot;guid&quot;:&quot;84C5D9C6-5EF9-4F14-82E4-E06806FEE3A3&quot;,&quot;inter.mode&quot;:0,&quot;len&quot;:130.375,&quot;re.begin&quot;:130.375,&quot;re.eend&quot;:0,&quot;reverse&quot;:0,&quot;rewind.host&quot;:0,&quot;rewind.index&quot;:0,&quot;rr.b&quot;:0,&quot;rr.c&quot;:130.375,&quot;rr.end&quot;:3128,&quot;rr.start&quot;:0,&quot;speed.den&quot;:1,&quot;speed.num&quot;:1,&quot;sr.end&quot;:3128,&quot;sr.start&quot;:0,&quot;time&quot;:0}],&quot;source.len&quot;:130.375,&quot;trim.guid.end&quot;:&quot;84C5D9C6-5EF9-4F14-82E4-E06806FEE3A3&quot;,&quot;trim.guid.start&quot;:&quot;84C5D9C6-5EF9-4F14-82E4-E06806FEE3A3&quot;,&quot;trim.sr.end&quot;:130.375,&quot;trim.sr.start&quot;:0}
+"/>
+<Property key="TimelineType" type="int" value="4"/>
+<Property key="Transform.Angle" type="double" value="0.000000"/>
+<Property key="Transform.CenterPoint" type="NLEPointF" value="x:0.50000000000000000000, y:0.50000000000000000000"/>
+<Property key="Transform.Enabled" type="int" value="1"/>
+<Property key="Transform.Locked" type="int" value="0"/>
+<Property key="Transform.LockedTransform" type="int" value="0"/>
+<Property key="Transform.ResizeScale" type="NLEPointF" value="x:1.00000000000000000000, y:1.00000000000000000000"/>
+<Property key="Transform.ShowTransform" type="int" value="1"/>
+<Property key="UserData" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="4">
+<Property key="Key_AncestralGuid" type="std::wstring" value="{612ff5ca-fa7d-4bbb-b820-d22ca3c971b8}"/>
+<Property key="Key_TimelineGuid" type="std::wstring" value="{1b70667e-857d-442f-b2b8-bf3de1c6febf}"/>
+<Property key="key_timeline_resource_info" type="std::wstring" value="{&quot;download_url&quot;:&quot;D:/Shn android/All song/Vale_vale_SONG_BY_DJ_ALOK_X_FREE_FIRE___FREE_FIRE_NEW_SONG__FREE_FIRE_COLLABE(360p).mp4&quot;,&quot;name&quot;:&quot;Vale_vale_SONG_BY_DJ_ALOK_X_FREE_FIRE___FREE_FIRE_NEW_SONG__FREE_FIRE_COLLABE(360p)&quot;}"/>
+<Property key="key_timeline_type" type="std::wstring" value="3"/>
+</Properties>
+</Property>
+<Property key="ViewEdit.Status.Using" type="int" value="1"/>
+<Property key="Volume.Balance" type="int" value="0"/>
+<Property key="Volume.Enabled" type="int" value="1"/>
+<Property key="Volume.Mute" type="int" value="0"/>
+<Property key="Volume.Pitch" type="int" value="0"/>
+<Property key="Volume.Volume" type="double" value="0.000000"/>
+<Property key="base.Enable" type="int" value="1"/>
+<Property key="fade.aud.in.enabled" type="int" value="0"/>
+<Property key="fade.aud.in.range" type="int" value="0"/>
+<Property key="fade.aud.out.enabled" type="int" value="0"/>
+<Property key="fade.aud.out.range" type="int" value="0"/>
+<Property key="fade.aud.renderframerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="z.Alias" type="std::wstring" value=""/>
+<Property key="z.Marker" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="4">
+<Property key="contentEnd" type="NLERational" value="[3128, 1]: 3128.0000000 "/>
+<Property key="framerate" type="NLERational" value="[24, 1]: 24.0000000 "/>
+<Property key="trimEnd" type="NLERational" value="[3128, 1]: 3128.0000000 "/>
+<Property key="trimStart" type="NLERational" value="[0, 1]: 0.0000000 "/>
+</Properties>
+</Property>
+</Properties>
+</TimeLine>
