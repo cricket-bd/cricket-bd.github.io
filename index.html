@@ -171,7 +171,42 @@ https://web.facebook.com/Cricket-Fans-BD-106370494241905/
 
 <tr bgcolor="white">
 <th>Pakistan tour of England,2020</th><th>Aug 05-Sep 02</th>
-<th>Coming soon....</th></tr>
+<th><p id="demo"</p><script fontsize="5">
+// Set the date we're counting down to
+var countDownDate = new Date("july 10, 2020 20:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML ='<img src="poster.png"width="400"height="400">';
+  }
+}, 1000);
+</script>
+
+
+
+
+
+</th></tr>
 
 <tr bgcolor="yellowgreen">
 <th>Zimbabwe tour of Australia,2020</th><th>Aug 09-Aug 15</th>
@@ -219,38 +254,3 @@ https://news-portal360.github.io
 
 
 </br>
-<p id="demo"</p><script fontsize="5">
-// Set the date we're counting down to
-var countDownDate = new Date("july 03, 2020 20:00:00").getTime();
-
-// Update the count down every 1 second
-var x = setInterval(function() {
-
-  // Get today's date and time
-  var now = new Date().getTime();
-
-  // Find the distance between now and the count down date
-  var distance = countDownDate - now;
-
-  // Time calculations for days, hours, minutes and seconds
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-  // Display the result in the element with id="demo"
-  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s ";
-
-  // If the count down is finished, write some text
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("demo").innerHTML ='<img src="poster.png"width="400"height="400">';
-  }
-}, 1000);
-</script>
-
-
-
-
-
